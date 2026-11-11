@@ -1,0 +1,3028 @@
+{
+ "pairing": {
+  "3000/0.95|dca": {
+   "same_met": 24,
+   "same_spent": 0,
+   "same_workers": 0,
+   "windows": 24
+  },
+  "3000/0.95|dca_prev": {
+   "same_met": 24,
+   "same_spent": 0,
+   "same_workers": 0,
+   "windows": 24
+  },
+  "3000/0.95|dca_told": {
+   "same_met": 24,
+   "same_spent": 0,
+   "same_workers": 0,
+   "windows": 24
+  },
+  "30000/0.9|dca": {
+   "same_met": 22,
+   "same_spent": 0,
+   "same_workers": 0,
+   "windows": 24
+  },
+  "30000/0.9|dca_prev": {
+   "same_met": 24,
+   "same_spent": 24,
+   "same_workers": 24,
+   "windows": 24
+  },
+  "30000/0.9|dca_told": {
+   "same_met": 24,
+   "same_spent": 24,
+   "same_workers": 24,
+   "windows": 24
+  }
+ },
+ "rows": [
+  {
+   "met": false,
+   "policy": "fixed_mean",
+   "s_eff": 0.5875,
+   "slo": "3000/0.95",
+   "spent": 40.3333,
+   "trace": "azure_code",
+   "window": 0,
+   "workers": 242
+  },
+  {
+   "met": false,
+   "policy": "peak",
+   "s_eff": 0.5875,
+   "slo": "3000/0.95",
+   "spent": 121.0,
+   "trace": "azure_code",
+   "window": 0,
+   "workers": 726
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.5875,
+   "slo": "3000/0.95",
+   "spent": 31.1667,
+   "trace": "azure_code",
+   "window": 0,
+   "workers": 187
+  },
+  {
+   "met": false,
+   "policy": "dca",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 0,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 0,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 0,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "fixed_mean",
+   "s_eff": 0.5736,
+   "slo": "3000/0.95",
+   "spent": 40.3333,
+   "trace": "azure_code",
+   "window": 1,
+   "workers": 242
+  },
+  {
+   "met": false,
+   "policy": "peak",
+   "s_eff": 0.5736,
+   "slo": "3000/0.95",
+   "spent": 121.0,
+   "trace": "azure_code",
+   "window": 1,
+   "workers": 726
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.5736,
+   "slo": "3000/0.95",
+   "spent": 31.1667,
+   "trace": "azure_code",
+   "window": 1,
+   "workers": 187
+  },
+  {
+   "met": false,
+   "policy": "dca",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 1,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 1,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 1,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "fixed_mean",
+   "s_eff": 0.5815,
+   "slo": "3000/0.95",
+   "spent": 40.3333,
+   "trace": "azure_code",
+   "window": 2,
+   "workers": 242
+  },
+  {
+   "met": false,
+   "policy": "peak",
+   "s_eff": 0.5815,
+   "slo": "3000/0.95",
+   "spent": 121.0,
+   "trace": "azure_code",
+   "window": 2,
+   "workers": 726
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.5815,
+   "slo": "3000/0.95",
+   "spent": 80.5,
+   "trace": "azure_code",
+   "window": 2,
+   "workers": 483
+  },
+  {
+   "met": false,
+   "policy": "dca",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 2,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 2,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 2,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "fixed_mean",
+   "s_eff": 0.5729,
+   "slo": "3000/0.95",
+   "spent": 40.3333,
+   "trace": "azure_code",
+   "window": 3,
+   "workers": 242
+  },
+  {
+   "met": false,
+   "policy": "peak",
+   "s_eff": 0.5729,
+   "slo": "3000/0.95",
+   "spent": 121.0,
+   "trace": "azure_code",
+   "window": 3,
+   "workers": 726
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.0075,
+   "slo": "3000/0.95",
+   "spent": 10.3333,
+   "trace": "azure_code",
+   "window": 3,
+   "workers": 62
+  },
+  {
+   "met": false,
+   "policy": "dca",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 3,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 3,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 3,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "fixed_mean",
+   "s_eff": 0.5632,
+   "slo": "3000/0.95",
+   "spent": 40.3333,
+   "trace": "azure_code",
+   "window": 4,
+   "workers": 242
+  },
+  {
+   "met": false,
+   "policy": "peak",
+   "s_eff": 0.5632,
+   "slo": "3000/0.95",
+   "spent": 121.0,
+   "trace": "azure_code",
+   "window": 4,
+   "workers": 726
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.5632,
+   "slo": "3000/0.95",
+   "spent": 21.1667,
+   "trace": "azure_code",
+   "window": 4,
+   "workers": 127
+  },
+  {
+   "met": false,
+   "policy": "dca",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 4,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 4,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 4,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "fixed_mean",
+   "s_eff": 0.5791,
+   "slo": "3000/0.95",
+   "spent": 40.3333,
+   "trace": "azure_code",
+   "window": 5,
+   "workers": 242
+  },
+  {
+   "met": false,
+   "policy": "peak",
+   "s_eff": 0.5791,
+   "slo": "3000/0.95",
+   "spent": 121.0,
+   "trace": "azure_code",
+   "window": 5,
+   "workers": 726
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.0139,
+   "slo": "3000/0.95",
+   "spent": 8.6667,
+   "trace": "azure_code",
+   "window": 5,
+   "workers": 52
+  },
+  {
+   "met": false,
+   "policy": "dca",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 5,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 5,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 5,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "fixed_mean",
+   "s_eff": 0.5703,
+   "slo": "3000/0.95",
+   "spent": 40.3333,
+   "trace": "azure_code",
+   "window": 6,
+   "workers": 242
+  },
+  {
+   "met": false,
+   "policy": "peak",
+   "s_eff": 0.5703,
+   "slo": "3000/0.95",
+   "spent": 121.0,
+   "trace": "azure_code",
+   "window": 6,
+   "workers": 726
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.5703,
+   "slo": "3000/0.95",
+   "spent": 23.0,
+   "trace": "azure_code",
+   "window": 6,
+   "workers": 138
+  },
+  {
+   "met": false,
+   "policy": "dca",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 6,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 6,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 6,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "fixed_mean",
+   "s_eff": 0.5646,
+   "slo": "3000/0.95",
+   "spent": 40.3333,
+   "trace": "azure_code",
+   "window": 7,
+   "workers": 242
+  },
+  {
+   "met": false,
+   "policy": "peak",
+   "s_eff": 0.5646,
+   "slo": "3000/0.95",
+   "spent": 121.0,
+   "trace": "azure_code",
+   "window": 7,
+   "workers": 726
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.5646,
+   "slo": "3000/0.95",
+   "spent": 114.1667,
+   "trace": "azure_code",
+   "window": 7,
+   "workers": 685
+  },
+  {
+   "met": false,
+   "policy": "dca",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 7,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 7,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 7,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "fixed_mean",
+   "s_eff": 0.5756,
+   "slo": "3000/0.95",
+   "spent": 40.3333,
+   "trace": "azure_code",
+   "window": 8,
+   "workers": 242
+  },
+  {
+   "met": false,
+   "policy": "peak",
+   "s_eff": 0.5756,
+   "slo": "3000/0.95",
+   "spent": 121.0,
+   "trace": "azure_code",
+   "window": 8,
+   "workers": 726
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.5306,
+   "slo": "3000/0.95",
+   "spent": 13.3333,
+   "trace": "azure_code",
+   "window": 8,
+   "workers": 80
+  },
+  {
+   "met": false,
+   "policy": "dca",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 8,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 8,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 8,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "fixed_mean",
+   "s_eff": 0.5677,
+   "slo": "3000/0.95",
+   "spent": 40.3333,
+   "trace": "azure_code",
+   "window": 9,
+   "workers": 242
+  },
+  {
+   "met": false,
+   "policy": "peak",
+   "s_eff": 0.5677,
+   "slo": "3000/0.95",
+   "spent": 121.0,
+   "trace": "azure_code",
+   "window": 9,
+   "workers": 726
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.5677,
+   "slo": "3000/0.95",
+   "spent": 35.8333,
+   "trace": "azure_code",
+   "window": 9,
+   "workers": 215
+  },
+  {
+   "met": false,
+   "policy": "dca",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 9,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 9,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 9,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "fixed_mean",
+   "s_eff": 0.582,
+   "slo": "3000/0.95",
+   "spent": 40.3333,
+   "trace": "azure_code",
+   "window": 10,
+   "workers": 242
+  },
+  {
+   "met": false,
+   "policy": "peak",
+   "s_eff": 0.582,
+   "slo": "3000/0.95",
+   "spent": 121.0,
+   "trace": "azure_code",
+   "window": 10,
+   "workers": 726
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.582,
+   "slo": "3000/0.95",
+   "spent": 95.5,
+   "trace": "azure_code",
+   "window": 10,
+   "workers": 573
+  },
+  {
+   "met": false,
+   "policy": "dca",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 10,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 10,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 10,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "fixed_mean",
+   "s_eff": 0.5705,
+   "slo": "3000/0.95",
+   "spent": 40.3333,
+   "trace": "azure_code",
+   "window": 11,
+   "workers": 242
+  },
+  {
+   "met": false,
+   "policy": "peak",
+   "s_eff": 0.5705,
+   "slo": "3000/0.95",
+   "spent": 121.0,
+   "trace": "azure_code",
+   "window": 11,
+   "workers": 726
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.509,
+   "slo": "3000/0.95",
+   "spent": 13.5,
+   "trace": "azure_code",
+   "window": 11,
+   "workers": 81
+  },
+  {
+   "met": false,
+   "policy": "dca",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 11,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 11,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_code",
+   "window": 11,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "fixed_mean",
+   "s_eff": 0.5875,
+   "slo": "3000/0.95",
+   "spent": 65.3333,
+   "trace": "azure_conv",
+   "window": 0,
+   "workers": 392
+  },
+  {
+   "met": false,
+   "policy": "peak",
+   "s_eff": 0.5875,
+   "slo": "3000/0.95",
+   "spent": 108.1667,
+   "trace": "azure_conv",
+   "window": 0,
+   "workers": 649
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.5875,
+   "slo": "3000/0.95",
+   "spent": 36.6667,
+   "trace": "azure_conv",
+   "window": 0,
+   "workers": 220
+  },
+  {
+   "met": false,
+   "policy": "dca",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 0,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 0,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 0,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "fixed_mean",
+   "s_eff": 0.5736,
+   "slo": "3000/0.95",
+   "spent": 65.3333,
+   "trace": "azure_conv",
+   "window": 1,
+   "workers": 392
+  },
+  {
+   "met": false,
+   "policy": "peak",
+   "s_eff": 0.5736,
+   "slo": "3000/0.95",
+   "spent": 108.1667,
+   "trace": "azure_conv",
+   "window": 1,
+   "workers": 649
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.5736,
+   "slo": "3000/0.95",
+   "spent": 36.6667,
+   "trace": "azure_conv",
+   "window": 1,
+   "workers": 220
+  },
+  {
+   "met": false,
+   "policy": "dca",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 1,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 1,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 1,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "fixed_mean",
+   "s_eff": 0.582,
+   "slo": "3000/0.95",
+   "spent": 65.3333,
+   "trace": "azure_conv",
+   "window": 2,
+   "workers": 392
+  },
+  {
+   "met": false,
+   "policy": "peak",
+   "s_eff": 0.582,
+   "slo": "3000/0.95",
+   "spent": 108.1667,
+   "trace": "azure_conv",
+   "window": 2,
+   "workers": 649
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.582,
+   "slo": "3000/0.95",
+   "spent": 50.6667,
+   "trace": "azure_conv",
+   "window": 2,
+   "workers": 304
+  },
+  {
+   "met": false,
+   "policy": "dca",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 2,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 2,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 2,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "fixed_mean",
+   "s_eff": 0.5729,
+   "slo": "3000/0.95",
+   "spent": 65.3333,
+   "trace": "azure_conv",
+   "window": 3,
+   "workers": 392
+  },
+  {
+   "met": false,
+   "policy": "peak",
+   "s_eff": 0.5729,
+   "slo": "3000/0.95",
+   "spent": 108.1667,
+   "trace": "azure_conv",
+   "window": 3,
+   "workers": 649
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.5729,
+   "slo": "3000/0.95",
+   "spent": 74.8333,
+   "trace": "azure_conv",
+   "window": 3,
+   "workers": 449
+  },
+  {
+   "met": false,
+   "policy": "dca",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 3,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 3,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 3,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "fixed_mean",
+   "s_eff": 0.5649,
+   "slo": "3000/0.95",
+   "spent": 65.3333,
+   "trace": "azure_conv",
+   "window": 4,
+   "workers": 392
+  },
+  {
+   "met": false,
+   "policy": "peak",
+   "s_eff": 0.5649,
+   "slo": "3000/0.95",
+   "spent": 108.1667,
+   "trace": "azure_conv",
+   "window": 4,
+   "workers": 649
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.5649,
+   "slo": "3000/0.95",
+   "spent": 62.1667,
+   "trace": "azure_conv",
+   "window": 4,
+   "workers": 373
+  },
+  {
+   "met": false,
+   "policy": "dca",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 4,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 4,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 4,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "fixed_mean",
+   "s_eff": 0.5791,
+   "slo": "3000/0.95",
+   "spent": 65.3333,
+   "trace": "azure_conv",
+   "window": 5,
+   "workers": 392
+  },
+  {
+   "met": false,
+   "policy": "peak",
+   "s_eff": 0.5791,
+   "slo": "3000/0.95",
+   "spent": 108.1667,
+   "trace": "azure_conv",
+   "window": 5,
+   "workers": 649
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.5791,
+   "slo": "3000/0.95",
+   "spent": 93.8333,
+   "trace": "azure_conv",
+   "window": 5,
+   "workers": 563
+  },
+  {
+   "met": false,
+   "policy": "dca",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 5,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 5,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 5,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "fixed_mean",
+   "s_eff": 0.5703,
+   "slo": "3000/0.95",
+   "spent": 65.3333,
+   "trace": "azure_conv",
+   "window": 6,
+   "workers": 392
+  },
+  {
+   "met": false,
+   "policy": "peak",
+   "s_eff": 0.5703,
+   "slo": "3000/0.95",
+   "spent": 108.1667,
+   "trace": "azure_conv",
+   "window": 6,
+   "workers": 649
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.5703,
+   "slo": "3000/0.95",
+   "spent": 55.5,
+   "trace": "azure_conv",
+   "window": 6,
+   "workers": 333
+  },
+  {
+   "met": false,
+   "policy": "dca",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 6,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 6,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 6,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "fixed_mean",
+   "s_eff": 0.5639,
+   "slo": "3000/0.95",
+   "spent": 65.3333,
+   "trace": "azure_conv",
+   "window": 7,
+   "workers": 392
+  },
+  {
+   "met": false,
+   "policy": "peak",
+   "s_eff": 0.5639,
+   "slo": "3000/0.95",
+   "spent": 108.1667,
+   "trace": "azure_conv",
+   "window": 7,
+   "workers": 649
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.5639,
+   "slo": "3000/0.95",
+   "spent": 79.5,
+   "trace": "azure_conv",
+   "window": 7,
+   "workers": 477
+  },
+  {
+   "met": false,
+   "policy": "dca",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 7,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 7,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 7,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "fixed_mean",
+   "s_eff": 0.5756,
+   "slo": "3000/0.95",
+   "spent": 65.3333,
+   "trace": "azure_conv",
+   "window": 8,
+   "workers": 392
+  },
+  {
+   "met": false,
+   "policy": "peak",
+   "s_eff": 0.5756,
+   "slo": "3000/0.95",
+   "spent": 108.1667,
+   "trace": "azure_conv",
+   "window": 8,
+   "workers": 649
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.5756,
+   "slo": "3000/0.95",
+   "spent": 68.8333,
+   "trace": "azure_conv",
+   "window": 8,
+   "workers": 413
+  },
+  {
+   "met": false,
+   "policy": "dca",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 8,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 8,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 8,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "fixed_mean",
+   "s_eff": 0.5677,
+   "slo": "3000/0.95",
+   "spent": 65.3333,
+   "trace": "azure_conv",
+   "window": 9,
+   "workers": 392
+  },
+  {
+   "met": false,
+   "policy": "peak",
+   "s_eff": 0.5677,
+   "slo": "3000/0.95",
+   "spent": 108.1667,
+   "trace": "azure_conv",
+   "window": 9,
+   "workers": 649
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.5677,
+   "slo": "3000/0.95",
+   "spent": 72.0,
+   "trace": "azure_conv",
+   "window": 9,
+   "workers": 432
+  },
+  {
+   "met": false,
+   "policy": "dca",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 9,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 9,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 9,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "fixed_mean",
+   "s_eff": 0.579,
+   "slo": "3000/0.95",
+   "spent": 65.3333,
+   "trace": "azure_conv",
+   "window": 10,
+   "workers": 392
+  },
+  {
+   "met": false,
+   "policy": "peak",
+   "s_eff": 0.579,
+   "slo": "3000/0.95",
+   "spent": 108.1667,
+   "trace": "azure_conv",
+   "window": 10,
+   "workers": 649
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.579,
+   "slo": "3000/0.95",
+   "spent": 74.3333,
+   "trace": "azure_conv",
+   "window": 10,
+   "workers": 446
+  },
+  {
+   "met": false,
+   "policy": "dca",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 10,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 10,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 10,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "fixed_mean",
+   "s_eff": 0.5705,
+   "slo": "3000/0.95",
+   "spent": 65.3333,
+   "trace": "azure_conv",
+   "window": 11,
+   "workers": 392
+  },
+  {
+   "met": false,
+   "policy": "peak",
+   "s_eff": 0.5705,
+   "slo": "3000/0.95",
+   "spent": 108.1667,
+   "trace": "azure_conv",
+   "window": 11,
+   "workers": 649
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.5705,
+   "slo": "3000/0.95",
+   "spent": 40.8333,
+   "trace": "azure_conv",
+   "window": 11,
+   "workers": 245
+  },
+  {
+   "met": false,
+   "policy": "dca",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 11,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 11,
+   "workers": 0
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.0,
+   "slo": "3000/0.95",
+   "spent": 0.0,
+   "trace": "azure_conv",
+   "window": 11,
+   "workers": 0
+  },
+  {
+   "met": true,
+   "policy": "fixed_mean",
+   "s_eff": 0.9889,
+   "slo": "30000/0.9",
+   "spent": 40.3333,
+   "trace": "azure_code",
+   "window": 0,
+   "workers": 242
+  },
+  {
+   "met": true,
+   "policy": "peak",
+   "s_eff": 0.9889,
+   "slo": "30000/0.9",
+   "spent": 121.0,
+   "trace": "azure_code",
+   "window": 0,
+   "workers": 726
+  },
+  {
+   "met": true,
+   "policy": "hpa",
+   "s_eff": 0.9889,
+   "slo": "30000/0.9",
+   "spent": 31.1667,
+   "trace": "azure_code",
+   "window": 0,
+   "workers": 187
+  },
+  {
+   "met": true,
+   "policy": "dca",
+   "s_eff": 0.9889,
+   "slo": "30000/0.9",
+   "spent": 19.3333,
+   "trace": "azure_code",
+   "window": 0,
+   "workers": 116
+  },
+  {
+   "met": true,
+   "policy": "dca_prev",
+   "s_eff": 0.9889,
+   "slo": "30000/0.9",
+   "spent": 31.1667,
+   "trace": "azure_code",
+   "window": 0,
+   "workers": 187
+  },
+  {
+   "met": true,
+   "policy": "dca_told",
+   "s_eff": 0.9889,
+   "slo": "30000/0.9",
+   "spent": 31.1667,
+   "trace": "azure_code",
+   "window": 0,
+   "workers": 187
+  },
+  {
+   "met": true,
+   "policy": "fixed_mean",
+   "s_eff": 0.9879,
+   "slo": "30000/0.9",
+   "spent": 40.3333,
+   "trace": "azure_code",
+   "window": 1,
+   "workers": 242
+  },
+  {
+   "met": true,
+   "policy": "peak",
+   "s_eff": 0.9879,
+   "slo": "30000/0.9",
+   "spent": 121.0,
+   "trace": "azure_code",
+   "window": 1,
+   "workers": 726
+  },
+  {
+   "met": true,
+   "policy": "hpa",
+   "s_eff": 0.9879,
+   "slo": "30000/0.9",
+   "spent": 31.1667,
+   "trace": "azure_code",
+   "window": 1,
+   "workers": 187
+  },
+  {
+   "met": true,
+   "policy": "dca",
+   "s_eff": 0.9879,
+   "slo": "30000/0.9",
+   "spent": 19.3333,
+   "trace": "azure_code",
+   "window": 1,
+   "workers": 116
+  },
+  {
+   "met": true,
+   "policy": "dca_prev",
+   "s_eff": 0.9879,
+   "slo": "30000/0.9",
+   "spent": 31.1667,
+   "trace": "azure_code",
+   "window": 1,
+   "workers": 187
+  },
+  {
+   "met": true,
+   "policy": "dca_told",
+   "s_eff": 0.9879,
+   "slo": "30000/0.9",
+   "spent": 31.1667,
+   "trace": "azure_code",
+   "window": 1,
+   "workers": 187
+  },
+  {
+   "met": true,
+   "policy": "fixed_mean",
+   "s_eff": 0.9934,
+   "slo": "30000/0.9",
+   "spent": 40.3333,
+   "trace": "azure_code",
+   "window": 2,
+   "workers": 242
+  },
+  {
+   "met": true,
+   "policy": "peak",
+   "s_eff": 0.9934,
+   "slo": "30000/0.9",
+   "spent": 121.0,
+   "trace": "azure_code",
+   "window": 2,
+   "workers": 726
+  },
+  {
+   "met": true,
+   "policy": "hpa",
+   "s_eff": 0.9934,
+   "slo": "30000/0.9",
+   "spent": 80.5,
+   "trace": "azure_code",
+   "window": 2,
+   "workers": 483
+  },
+  {
+   "met": true,
+   "policy": "dca",
+   "s_eff": 0.9934,
+   "slo": "30000/0.9",
+   "spent": 10.3333,
+   "trace": "azure_code",
+   "window": 2,
+   "workers": 62
+  },
+  {
+   "met": true,
+   "policy": "dca_prev",
+   "s_eff": 0.9934,
+   "slo": "30000/0.9",
+   "spent": 80.5,
+   "trace": "azure_code",
+   "window": 2,
+   "workers": 483
+  },
+  {
+   "met": true,
+   "policy": "dca_told",
+   "s_eff": 0.9934,
+   "slo": "30000/0.9",
+   "spent": 80.5,
+   "trace": "azure_code",
+   "window": 2,
+   "workers": 483
+  },
+  {
+   "met": true,
+   "policy": "fixed_mean",
+   "s_eff": 0.9894,
+   "slo": "30000/0.9",
+   "spent": 40.3333,
+   "trace": "azure_code",
+   "window": 3,
+   "workers": 242
+  },
+  {
+   "met": true,
+   "policy": "peak",
+   "s_eff": 0.9894,
+   "slo": "30000/0.9",
+   "spent": 121.0,
+   "trace": "azure_code",
+   "window": 3,
+   "workers": 726
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.1908,
+   "slo": "30000/0.9",
+   "spent": 10.3333,
+   "trace": "azure_code",
+   "window": 3,
+   "workers": 62
+  },
+  {
+   "met": true,
+   "policy": "dca",
+   "s_eff": 0.9894,
+   "slo": "30000/0.9",
+   "spent": 19.3333,
+   "trace": "azure_code",
+   "window": 3,
+   "workers": 116
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.1908,
+   "slo": "30000/0.9",
+   "spent": 10.3333,
+   "trace": "azure_code",
+   "window": 3,
+   "workers": 62
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.1908,
+   "slo": "30000/0.9",
+   "spent": 10.3333,
+   "trace": "azure_code",
+   "window": 3,
+   "workers": 62
+  },
+  {
+   "met": true,
+   "policy": "fixed_mean",
+   "s_eff": 0.9907,
+   "slo": "30000/0.9",
+   "spent": 40.3333,
+   "trace": "azure_code",
+   "window": 4,
+   "workers": 242
+  },
+  {
+   "met": true,
+   "policy": "peak",
+   "s_eff": 0.9907,
+   "slo": "30000/0.9",
+   "spent": 121.0,
+   "trace": "azure_code",
+   "window": 4,
+   "workers": 726
+  },
+  {
+   "met": true,
+   "policy": "hpa",
+   "s_eff": 0.9907,
+   "slo": "30000/0.9",
+   "spent": 21.1667,
+   "trace": "azure_code",
+   "window": 4,
+   "workers": 127
+  },
+  {
+   "met": true,
+   "policy": "dca",
+   "s_eff": 0.9907,
+   "slo": "30000/0.9",
+   "spent": 8.6667,
+   "trace": "azure_code",
+   "window": 4,
+   "workers": 52
+  },
+  {
+   "met": true,
+   "policy": "dca_prev",
+   "s_eff": 0.9907,
+   "slo": "30000/0.9",
+   "spent": 21.1667,
+   "trace": "azure_code",
+   "window": 4,
+   "workers": 127
+  },
+  {
+   "met": true,
+   "policy": "dca_told",
+   "s_eff": 0.9907,
+   "slo": "30000/0.9",
+   "spent": 21.1667,
+   "trace": "azure_code",
+   "window": 4,
+   "workers": 127
+  },
+  {
+   "met": true,
+   "policy": "fixed_mean",
+   "s_eff": 0.9895,
+   "slo": "30000/0.9",
+   "spent": 40.3333,
+   "trace": "azure_code",
+   "window": 5,
+   "workers": 242
+  },
+  {
+   "met": true,
+   "policy": "peak",
+   "s_eff": 0.9895,
+   "slo": "30000/0.9",
+   "spent": 121.0,
+   "trace": "azure_code",
+   "window": 5,
+   "workers": 726
+  },
+  {
+   "met": false,
+   "policy": "hpa",
+   "s_eff": 0.1055,
+   "slo": "30000/0.9",
+   "spent": 8.6667,
+   "trace": "azure_code",
+   "window": 5,
+   "workers": 52
+  },
+  {
+   "met": true,
+   "policy": "dca",
+   "s_eff": 0.9895,
+   "slo": "30000/0.9",
+   "spent": 19.3333,
+   "trace": "azure_code",
+   "window": 5,
+   "workers": 116
+  },
+  {
+   "met": false,
+   "policy": "dca_prev",
+   "s_eff": 0.1055,
+   "slo": "30000/0.9",
+   "spent": 8.6667,
+   "trace": "azure_code",
+   "window": 5,
+   "workers": 52
+  },
+  {
+   "met": false,
+   "policy": "dca_told",
+   "s_eff": 0.1055,
+   "slo": "30000/0.9",
+   "spent": 8.6667,
+   "trace": "azure_code",
+   "window": 5,
+   "workers": 52
+  },
+  {
+   "met": true,
+   "policy": "fixed_mean",
+   "s_eff": 0.9912,
+   "slo": "30000/0.9",
+   "spent": 40.3333,
+   "trace": "azure_code",
+   "window": 6,
+   "workers": 242
+  },
+  {
+   "met": true,
+   "policy": "peak",
+   "s_eff": 0.9912,
+   "slo": "30000/0.9",
+   "spent": 121.0,
+   "trace": "azure_code",
+   "window": 6,
+   "workers": 726
+  },
+  {
+   "met": true,
+   "policy": "hpa",
+   "s_eff": 0.9912,
+   "slo": "30000/0.9",
+   "spent": 23.0,
+   "trace": "azure_code",
+   "window": 6,
+   "workers": 138
+  },
+  {
+   "met": true,
+   "policy": "dca",
+   "s_eff": 0.9912,
+   "slo": "30000/0.9",
+   "spent": 19.3333,
+   "trace": "azure_code",
+   "window": 6,
+   "workers": 116
+  },
+  {
+   "met": true,
+   "policy": "dca_prev",
+   "s_eff": 0.9912,
+   "slo": "30000/0.9",
+   "spent": 23.0,
+   "trace": "azure_code",
+   "window": 6,
+   "workers": 138
+  },
+  {
+   "met": true,
+   "policy": "dca_told",
+   "s_eff": 0.9912,
+   "slo": "30000/0.9",
+   "spent": 23.0,
+   "trace": "azure_code",
+   "window": 6,
+   "workers": 138
+  },
+  {
+   "met": true,
+   "policy": "fixed_mean",
+   "s_eff": 0.9901,
+   "slo": "30000/0.9",
+   "spent": 40.3333,
+   "trace": "azure_code",
+   "window": 7,
+   "workers": 242
+  },
+  {
+   "met": true,
+   "policy": "peak",
+   "s_eff": 0.9901,
+   "slo": "30000/0.9",
+   "spent": 121.0,
+   "trace": "azure_code",
+   "window": 7,
+   "workers": 726
+  },
+  {
+   "met": true,
+   "policy": "hpa",
+   "s_eff": 0.9901,
+   "slo": "30000/0.9",
+   "spent": 114.1667,
+   "trace": "azure_code",
+   "window": 7,
+   "workers": 685
+  },
+  {
+   "met": true,
+   "policy": "dca",
+   "s_eff": 0.9901,
+   "slo": "30000/0.9",
+   "spent": 13.3333,
+   "trace": "azure_code",
+   "window": 7,
+   "workers": 80
+  },
+  {
+   "met": true,
+   "policy": "dca_prev",
+   "s_eff": 0.9901,
+   "slo": "30000/0.9",
+   "spent": 114.1667,
+   "trace": "azure_code",
+   "window": 7,
+   "workers": 685
+  },
+  {
+   "met": true,
+   "policy": "dca_told",
+   "s_eff": 0.9901,
+   "slo": "30000/0.9",
+   "spent": 114.1667,
+   "trace": "azure_code",
+   "window": 7,
+   "workers": 685
+  },
+  {
+   "met": true,
+   "policy": "fixed_mean",
+   "s_eff": 0.9918,
+   "slo": "30000/0.9",
+   "spent": 40.3333,
+   "trace": "azure_code",
+   "window": 8,
+   "workers": 242
+  },
+  {
+   "met": true,
+   "policy": "peak",
+   "s_eff": 0.9918,
+   "slo": "30000/0.9",
+   "spent": 121.0,
+   "trace": "azure_code",
+   "window": 8,
+   "workers": 726
+  },
+  {
+   "met": true,
+   "policy": "hpa",
+   "s_eff": 0.9914,
+   "slo": "30000/0.9",
+   "spent": 13.3333,
+   "trace": "azure_code",
+   "window": 8,
+   "workers": 80
+  },
+  {
+   "met": true,
+   "policy": "dca",
+   "s_eff": 0.9918,
+   "slo": "30000/0.9",
+   "spent": 19.3333,
+   "trace": "azure_code",
+   "window": 8,
+   "workers": 116
+  },
+  {
+   "met": true,
+   "policy": "dca_prev",
+   "s_eff": 0.9914,
+   "slo": "30000/0.9",
+   "spent": 13.3333,
+   "trace": "azure_code",
+   "window": 8,
+   "workers": 80
+  },
+  {
+   "met": true,
+   "policy": "dca_told",
+   "s_eff": 0.9914,
+   "slo": "30000/0.9",
+   "spent": 13.3333,
+   "trace": "azure_code",
+   "window": 8,
+   "workers": 80
+  },
+  {
+   "met": true,
+   "policy": "fixed_mean",
+   "s_eff": 0.9905,
+   "slo": "30000/0.9",
+   "spent": 40.3333,
+   "trace": "azure_code",
+   "window": 9,
+   "workers": 242
+  },
+  {
+   "met": true,
+   "policy": "peak",
+   "s_eff": 0.9905,
+   "slo": "30000/0.9",
+   "spent": 121.0,
+   "trace": "azure_code",
+   "window": 9,
+   "workers": 726
+  },
+  {
+   "met": true,
+   "policy": "hpa",
+   "s_eff": 0.9905,
+   "slo": "30000/0.9",
+   "spent": 35.8333,
+   "trace": "azure_code",
+   "window": 9,
+   "workers": 215
+  },
+  {
+   "met": true,
+   "policy": "dca",
+   "s_eff": 0.9905,
+   "slo": "30000/0.9",
+   "spent": 19.3333,
+   "trace": "azure_code",
+   "window": 9,
+   "workers": 116
+  },
+  {
+   "met": true,
+   "policy": "dca_prev",
+   "s_eff": 0.9905,
+   "slo": "30000/0.9",
+   "spent": 35.8333,
+   "trace": "azure_code",
+   "window": 9,
+   "workers": 215
+  },
+  {
+   "met": true,
+   "policy": "dca_told",
+   "s_eff": 0.9905,
+   "slo": "30000/0.9",
+   "spent": 35.8333,
+   "trace": "azure_code",
+   "window": 9,
+   "workers": 215
+  },
+  {
+   "met": true,
+   "policy": "fixed_mean",
+   "s_eff": 0.9921,
+   "slo": "30000/0.9",
+   "spent": 40.3333,
+   "trace": "azure_code",
+   "window": 10,
+   "workers": 242
+  },
+  {
+   "met": true,
+   "policy": "peak",
+   "s_eff": 0.9921,
+   "slo": "30000/0.9",
+   "spent": 121.0,
+   "trace": "azure_code",
+   "window": 10,
+   "workers": 726
+  },
+  {
+   "met": true,
+   "policy": "hpa",
+   "s_eff": 0.9921,
+   "slo": "30000/0.9",
+   "spent": 95.5,
+   "trace": "azure_code",
+   "window": 10,
+   "workers": 573
+  },
+  {
+   "met": true,
+   "policy": "dca",
+   "s_eff": 0.9921,
+   "slo": "30000/0.9",
+   "spent": 13.5,
+   "trace": "azure_code",
+   "window": 10,
+   "workers": 81
+  },
+  {
+   "met": true,
+   "policy": "dca_prev",
+   "s_eff": 0.9921,
+   "slo": "30000/0.9",
+   "spent": 95.5,
+   "trace": "azure_code",
+   "window": 10,
+   "workers": 573
+  },
+  {
+   "met": true,
+   "policy": "dca_told",
+   "s_eff": 0.9921,
+   "slo": "30000/0.9",
+   "spent": 95.5,
+   "trace": "azure_code",
+   "window": 10,
+   "workers": 573
+  },
+  {
+   "met": true,
+   "policy": "fixed_mean",
+   "s_eff": 0.9905,
+   "slo": "30000/0.9",
+   "spent": 40.3333,
+   "trace": "azure_code",
+   "window": 11,
+   "workers": 242
+  },
+  {
+   "met": true,
+   "policy": "peak",
+   "s_eff": 0.9905,
+   "slo": "30000/0.9",
+   "spent": 121.0,
+   "trace": "azure_code",
+   "window": 11,
+   "workers": 726
+  },
+  {
+   "met": true,
+   "policy": "hpa",
+   "s_eff": 0.9899,
+   "slo": "30000/0.9",
+   "spent": 13.5,
+   "trace": "azure_code",
+   "window": 11,
+   "workers": 81
+  },
+  {
+   "met": true,
+   "policy": "dca",
+   "s_eff": 0.9905,
+   "slo": "30000/0.9",
+   "spent": 19.3333,
+   "trace": "azure_code",
+   "window": 11,
+   "workers": 116
+  },
+  {
+   "met": true,
+   "policy": "dca_prev",
+   "s_eff": 0.9899,
+   "slo": "30000/0.9",
+   "spent": 13.5,
+   "trace": "azure_code",
+   "window": 11,
+   "workers": 81
+  },
+  {
+   "met": true,
+   "policy": "dca_told",
+   "s_eff": 0.9899,
+   "slo": "30000/0.9",
+   "spent": 13.5,
+   "trace": "azure_code",
+   "window": 11,
+   "workers": 81
+  },
+  {
+   "met": true,
+   "policy": "fixed_mean",
+   "s_eff": 0.9889,
+   "slo": "30000/0.9",
+   "spent": 65.3333,
+   "trace": "azure_conv",
+   "window": 0,
+   "workers": 392
+  },
+  {
+   "met": true,
+   "policy": "peak",
+   "s_eff": 0.9889,
+   "slo": "30000/0.9",
+   "spent": 108.1667,
+   "trace": "azure_conv",
+   "window": 0,
+   "workers": 649
+  },
+  {
+   "met": true,
+   "policy": "hpa",
+   "s_eff": 0.9889,
+   "slo": "30000/0.9",
+   "spent": 36.6667,
+   "trace": "azure_conv",
+   "window": 0,
+   "workers": 220
+  },
+  {
+   "met": true,
+   "policy": "dca",
+   "s_eff": 0.9889,
+   "slo": "30000/0.9",
+   "spent": 19.3333,
+   "trace": "azure_conv",
+   "window": 0,
+   "workers": 116
+  },
+  {
+   "met": true,
+   "policy": "dca_prev",
+   "s_eff": 0.9889,
+   "slo": "30000/0.9",
+   "spent": 36.6667,
+   "trace": "azure_conv",
+   "window": 0,
+   "workers": 220
+  },
+  {
+   "met": true,
+   "policy": "dca_told",
+   "s_eff": 0.9889,
+   "slo": "30000/0.9",
+   "spent": 36.6667,
+   "trace": "azure_conv",
+   "window": 0,
+   "workers": 220
+  },
+  {
+   "met": true,
+   "policy": "fixed_mean",
+   "s_eff": 0.9879,
+   "slo": "30000/0.9",
+   "spent": 65.3333,
+   "trace": "azure_conv",
+   "window": 1,
+   "workers": 392
+  },
+  {
+   "met": true,
+   "policy": "peak",
+   "s_eff": 0.9879,
+   "slo": "30000/0.9",
+   "spent": 108.1667,
+   "trace": "azure_conv",
+   "window": 1,
+   "workers": 649
+  },
+  {
+   "met": true,
+   "policy": "hpa",
+   "s_eff": 0.9879,
+   "slo": "30000/0.9",
+   "spent": 36.6667,
+   "trace": "azure_conv",
+   "window": 1,
+   "workers": 220
+  },
+  {
+   "met": true,
+   "policy": "dca",
+   "s_eff": 0.9879,
+   "slo": "30000/0.9",
+   "spent": 19.3333,
+   "trace": "azure_conv",
+   "window": 1,
+   "workers": 116
+  },
+  {
+   "met": true,
+   "policy": "dca_prev",
+   "s_eff": 0.9879,
+   "slo": "30000/0.9",
+   "spent": 36.6667,
+   "trace": "azure_conv",
+   "window": 1,
+   "workers": 220
+  },
+  {
+   "met": true,
+   "policy": "dca_told",
+   "s_eff": 0.9879,
+   "slo": "30000/0.9",
+   "spent": 36.6667,
+   "trace": "azure_conv",
+   "window": 1,
+   "workers": 220
+  },
+  {
+   "met": true,
+   "policy": "fixed_mean",
+   "s_eff": 0.9924,
+   "slo": "30000/0.9",
+   "spent": 65.3333,
+   "trace": "azure_conv",
+   "window": 2,
+   "workers": 392
+  },
+  {
+   "met": true,
+   "policy": "peak",
+   "s_eff": 0.9924,
+   "slo": "30000/0.9",
+   "spent": 108.1667,
+   "trace": "azure_conv",
+   "window": 2,
+   "workers": 649
+  },
+  {
+   "met": true,
+   "policy": "hpa",
+   "s_eff": 0.9924,
+   "slo": "30000/0.9",
+   "spent": 50.6667,
+   "trace": "azure_conv",
+   "window": 2,
+   "workers": 304
+  },
+  {
+   "met": true,
+   "policy": "dca",
+   "s_eff": 0.9924,
+   "slo": "30000/0.9",
+   "spent": 19.3333,
+   "trace": "azure_conv",
+   "window": 2,
+   "workers": 116
+  },
+  {
+   "met": true,
+   "policy": "dca_prev",
+   "s_eff": 0.9924,
+   "slo": "30000/0.9",
+   "spent": 50.6667,
+   "trace": "azure_conv",
+   "window": 2,
+   "workers": 304
+  },
+  {
+   "met": true,
+   "policy": "dca_told",
+   "s_eff": 0.9924,
+   "slo": "30000/0.9",
+   "spent": 50.6667,
+   "trace": "azure_conv",
+   "window": 2,
+   "workers": 304
+  },
+  {
+   "met": true,
+   "policy": "fixed_mean",
+   "s_eff": 0.9894,
+   "slo": "30000/0.9",
+   "spent": 65.3333,
+   "trace": "azure_conv",
+   "window": 3,
+   "workers": 392
+  },
+  {
+   "met": true,
+   "policy": "peak",
+   "s_eff": 0.9894,
+   "slo": "30000/0.9",
+   "spent": 108.1667,
+   "trace": "azure_conv",
+   "window": 3,
+   "workers": 649
+  },
+  {
+   "met": true,
+   "policy": "hpa",
+   "s_eff": 0.9894,
+   "slo": "30000/0.9",
+   "spent": 74.8333,
+   "trace": "azure_conv",
+   "window": 3,
+   "workers": 449
+  },
+  {
+   "met": true,
+   "policy": "dca",
+   "s_eff": 0.9894,
+   "slo": "30000/0.9",
+   "spent": 19.3333,
+   "trace": "azure_conv",
+   "window": 3,
+   "workers": 116
+  },
+  {
+   "met": true,
+   "policy": "dca_prev",
+   "s_eff": 0.9894,
+   "slo": "30000/0.9",
+   "spent": 74.8333,
+   "trace": "azure_conv",
+   "window": 3,
+   "workers": 449
+  },
+  {
+   "met": true,
+   "policy": "dca_told",
+   "s_eff": 0.9894,
+   "slo": "30000/0.9",
+   "spent": 74.8333,
+   "trace": "azure_conv",
+   "window": 3,
+   "workers": 449
+  },
+  {
+   "met": true,
+   "policy": "fixed_mean",
+   "s_eff": 0.9892,
+   "slo": "30000/0.9",
+   "spent": 65.3333,
+   "trace": "azure_conv",
+   "window": 4,
+   "workers": 392
+  },
+  {
+   "met": true,
+   "policy": "peak",
+   "s_eff": 0.9892,
+   "slo": "30000/0.9",
+   "spent": 108.1667,
+   "trace": "azure_conv",
+   "window": 4,
+   "workers": 649
+  },
+  {
+   "met": true,
+   "policy": "hpa",
+   "s_eff": 0.9892,
+   "slo": "30000/0.9",
+   "spent": 62.1667,
+   "trace": "azure_conv",
+   "window": 4,
+   "workers": 373
+  },
+  {
+   "met": true,
+   "policy": "dca",
+   "s_eff": 0.9892,
+   "slo": "30000/0.9",
+   "spent": 19.3333,
+   "trace": "azure_conv",
+   "window": 4,
+   "workers": 116
+  },
+  {
+   "met": true,
+   "policy": "dca_prev",
+   "s_eff": 0.9892,
+   "slo": "30000/0.9",
+   "spent": 62.1667,
+   "trace": "azure_conv",
+   "window": 4,
+   "workers": 373
+  },
+  {
+   "met": true,
+   "policy": "dca_told",
+   "s_eff": 0.9892,
+   "slo": "30000/0.9",
+   "spent": 62.1667,
+   "trace": "azure_conv",
+   "window": 4,
+   "workers": 373
+  },
+  {
+   "met": true,
+   "policy": "fixed_mean",
+   "s_eff": 0.9895,
+   "slo": "30000/0.9",
+   "spent": 65.3333,
+   "trace": "azure_conv",
+   "window": 5,
+   "workers": 392
+  },
+  {
+   "met": true,
+   "policy": "peak",
+   "s_eff": 0.9895,
+   "slo": "30000/0.9",
+   "spent": 108.1667,
+   "trace": "azure_conv",
+   "window": 5,
+   "workers": 649
+  },
+  {
+   "met": true,
+   "policy": "hpa",
+   "s_eff": 0.9895,
+   "slo": "30000/0.9",
+   "spent": 93.8333,
+   "trace": "azure_conv",
+   "window": 5,
+   "workers": 563
+  },
+  {
+   "met": true,
+   "policy": "dca",
+   "s_eff": 0.9895,
+   "slo": "30000/0.9",
+   "spent": 19.3333,
+   "trace": "azure_conv",
+   "window": 5,
+   "workers": 116
+  },
+  {
+   "met": true,
+   "policy": "dca_prev",
+   "s_eff": 0.9895,
+   "slo": "30000/0.9",
+   "spent": 93.8333,
+   "trace": "azure_conv",
+   "window": 5,
+   "workers": 563
+  },
+  {
+   "met": true,
+   "policy": "dca_told",
+   "s_eff": 0.9895,
+   "slo": "30000/0.9",
+   "spent": 93.8333,
+   "trace": "azure_conv",
+   "window": 5,
+   "workers": 563
+  },
+  {
+   "met": true,
+   "policy": "fixed_mean",
+   "s_eff": 0.9912,
+   "slo": "30000/0.9",
+   "spent": 65.3333,
+   "trace": "azure_conv",
+   "window": 6,
+   "workers": 392
+  },
+  {
+   "met": true,
+   "policy": "peak",
+   "s_eff": 0.9912,
+   "slo": "30000/0.9",
+   "spent": 108.1667,
+   "trace": "azure_conv",
+   "window": 6,
+   "workers": 649
+  },
+  {
+   "met": true,
+   "policy": "hpa",
+   "s_eff": 0.9912,
+   "slo": "30000/0.9",
+   "spent": 55.5,
+   "trace": "azure_conv",
+   "window": 6,
+   "workers": 333
+  },
+  {
+   "met": true,
+   "policy": "dca",
+   "s_eff": 0.9912,
+   "slo": "30000/0.9",
+   "spent": 19.3333,
+   "trace": "azure_conv",
+   "window": 6,
+   "workers": 116
+  },
+  {
+   "met": true,
+   "policy": "dca_prev",
+   "s_eff": 0.9912,
+   "slo": "30000/0.9",
+   "spent": 55.5,
+   "trace": "azure_conv",
+   "window": 6,
+   "workers": 333
+  },
+  {
+   "met": true,
+   "policy": "dca_told",
+   "s_eff": 0.9912,
+   "slo": "30000/0.9",
+   "spent": 55.5,
+   "trace": "azure_conv",
+   "window": 6,
+   "workers": 333
+  },
+  {
+   "met": true,
+   "policy": "fixed_mean",
+   "s_eff": 0.9911,
+   "slo": "30000/0.9",
+   "spent": 65.3333,
+   "trace": "azure_conv",
+   "window": 7,
+   "workers": 392
+  },
+  {
+   "met": true,
+   "policy": "peak",
+   "s_eff": 0.9911,
+   "slo": "30000/0.9",
+   "spent": 108.1667,
+   "trace": "azure_conv",
+   "window": 7,
+   "workers": 649
+  },
+  {
+   "met": true,
+   "policy": "hpa",
+   "s_eff": 0.9911,
+   "slo": "30000/0.9",
+   "spent": 79.5,
+   "trace": "azure_conv",
+   "window": 7,
+   "workers": 477
+  },
+  {
+   "met": true,
+   "policy": "dca",
+   "s_eff": 0.9911,
+   "slo": "30000/0.9",
+   "spent": 19.3333,
+   "trace": "azure_conv",
+   "window": 7,
+   "workers": 116
+  },
+  {
+   "met": true,
+   "policy": "dca_prev",
+   "s_eff": 0.9911,
+   "slo": "30000/0.9",
+   "spent": 79.5,
+   "trace": "azure_conv",
+   "window": 7,
+   "workers": 477
+  },
+  {
+   "met": true,
+   "policy": "dca_told",
+   "s_eff": 0.9911,
+   "slo": "30000/0.9",
+   "spent": 79.5,
+   "trace": "azure_conv",
+   "window": 7,
+   "workers": 477
+  },
+  {
+   "met": true,
+   "policy": "fixed_mean",
+   "s_eff": 0.9918,
+   "slo": "30000/0.9",
+   "spent": 65.3333,
+   "trace": "azure_conv",
+   "window": 8,
+   "workers": 392
+  },
+  {
+   "met": true,
+   "policy": "peak",
+   "s_eff": 0.9918,
+   "slo": "30000/0.9",
+   "spent": 108.1667,
+   "trace": "azure_conv",
+   "window": 8,
+   "workers": 649
+  },
+  {
+   "met": true,
+   "policy": "hpa",
+   "s_eff": 0.9918,
+   "slo": "30000/0.9",
+   "spent": 68.8333,
+   "trace": "azure_conv",
+   "window": 8,
+   "workers": 413
+  },
+  {
+   "met": true,
+   "policy": "dca",
+   "s_eff": 0.9918,
+   "slo": "30000/0.9",
+   "spent": 19.3333,
+   "trace": "azure_conv",
+   "window": 8,
+   "workers": 116
+  },
+  {
+   "met": true,
+   "policy": "dca_prev",
+   "s_eff": 0.9918,
+   "slo": "30000/0.9",
+   "spent": 68.8333,
+   "trace": "azure_conv",
+   "window": 8,
+   "workers": 413
+  },
+  {
+   "met": true,
+   "policy": "dca_told",
+   "s_eff": 0.9918,
+   "slo": "30000/0.9",
+   "spent": 68.8333,
+   "trace": "azure_conv",
+   "window": 8,
+   "workers": 413
+  },
+  {
+   "met": true,
+   "policy": "fixed_mean",
+   "s_eff": 0.9905,
+   "slo": "30000/0.9",
+   "spent": 65.3333,
+   "trace": "azure_conv",
+   "window": 9,
+   "workers": 392
+  },
+  {
+   "met": true,
+   "policy": "peak",
+   "s_eff": 0.9905,
+   "slo": "30000/0.9",
+   "spent": 108.1667,
+   "trace": "azure_conv",
+   "window": 9,
+   "workers": 649
+  },
+  {
+   "met": true,
+   "policy": "hpa",
+   "s_eff": 0.9905,
+   "slo": "30000/0.9",
+   "spent": 72.0,
+   "trace": "azure_conv",
+   "window": 9,
+   "workers": 432
+  },
+  {
+   "met": true,
+   "policy": "dca",
+   "s_eff": 0.9905,
+   "slo": "30000/0.9",
+   "spent": 19.3333,
+   "trace": "azure_conv",
+   "window": 9,
+   "workers": 116
+  },
+  {
+   "met": true,
+   "policy": "dca_prev",
+   "s_eff": 0.9905,
+   "slo": "30000/0.9",
+   "spent": 72.0,
+   "trace": "azure_conv",
+   "window": 9,
+   "workers": 432
+  },
+  {
+   "met": true,
+   "policy": "dca_told",
+   "s_eff": 0.9905,
+   "slo": "30000/0.9",
+   "spent": 72.0,
+   "trace": "azure_conv",
+   "window": 9,
+   "workers": 432
+  },
+  {
+   "met": true,
+   "policy": "fixed_mean",
+   "s_eff": 0.9922,
+   "slo": "30000/0.9",
+   "spent": 65.3333,
+   "trace": "azure_conv",
+   "window": 10,
+   "workers": 392
+  },
+  {
+   "met": true,
+   "policy": "peak",
+   "s_eff": 0.9922,
+   "slo": "30000/0.9",
+   "spent": 108.1667,
+   "trace": "azure_conv",
+   "window": 10,
+   "workers": 649
+  },
+  {
+   "met": true,
+   "policy": "hpa",
+   "s_eff": 0.9922,
+   "slo": "30000/0.9",
+   "spent": 74.3333,
+   "trace": "azure_conv",
+   "window": 10,
+   "workers": 446
+  },
+  {
+   "met": true,
+   "policy": "dca",
+   "s_eff": 0.9922,
+   "slo": "30000/0.9",
+   "spent": 19.3333,
+   "trace": "azure_conv",
+   "window": 10,
+   "workers": 116
+  },
+  {
+   "met": true,
+   "policy": "dca_prev",
+   "s_eff": 0.9922,
+   "slo": "30000/0.9",
+   "spent": 74.3333,
+   "trace": "azure_conv",
+   "window": 10,
+   "workers": 446
+  },
+  {
+   "met": true,
+   "policy": "dca_told",
+   "s_eff": 0.9922,
+   "slo": "30000/0.9",
+   "spent": 74.3333,
+   "trace": "azure_conv",
+   "window": 10,
+   "workers": 446
+  },
+  {
+   "met": true,
+   "policy": "fixed_mean",
+   "s_eff": 0.9905,
+   "slo": "30000/0.9",
+   "spent": 65.3333,
+   "trace": "azure_conv",
+   "window": 11,
+   "workers": 392
+  },
+  {
+   "met": true,
+   "policy": "peak",
+   "s_eff": 0.9905,
+   "slo": "30000/0.9",
+   "spent": 108.1667,
+   "trace": "azure_conv",
+   "window": 11,
+   "workers": 649
+  },
+  {
+   "met": true,
+   "policy": "hpa",
+   "s_eff": 0.9905,
+   "slo": "30000/0.9",
+   "spent": 40.8333,
+   "trace": "azure_conv",
+   "window": 11,
+   "workers": 245
+  },
+  {
+   "met": true,
+   "policy": "dca",
+   "s_eff": 0.9905,
+   "slo": "30000/0.9",
+   "spent": 19.3333,
+   "trace": "azure_conv",
+   "window": 11,
+   "workers": 116
+  },
+  {
+   "met": true,
+   "policy": "dca_prev",
+   "s_eff": 0.9905,
+   "slo": "30000/0.9",
+   "spent": 40.8333,
+   "trace": "azure_conv",
+   "window": 11,
+   "workers": 245
+  },
+  {
+   "met": true,
+   "policy": "dca_told",
+   "s_eff": 0.9905,
+   "slo": "30000/0.9",
+   "spent": 40.8333,
+   "trace": "azure_conv",
+   "window": 11,
+   "workers": 245
+  }
+ ],
+ "slos": [
+  "3000/0.95",
+  "30000/0.9"
+ ],
+ "summary": {
+  "3000/0.95": {
+   "dca": {
+    "attainment": 0.0,
+    "met": 0,
+    "waste_share": 0.0,
+    "wasted_worker_hours": 0.0,
+    "windows": 24,
+    "worker_hours": 0.0
+   },
+   "dca_prev": {
+    "attainment": 0.0,
+    "met": 0,
+    "waste_share": 0.0,
+    "wasted_worker_hours": 0.0,
+    "windows": 24,
+    "worker_hours": 0.0
+   },
+   "dca_told": {
+    "attainment": 0.0,
+    "met": 0,
+    "waste_share": 0.0,
+    "wasted_worker_hours": 0.0,
+    "windows": 24,
+    "worker_hours": 0.0
+   },
+   "fixed_mean": {
+    "attainment": 0.0,
+    "met": 0,
+    "waste_share": 1.0,
+    "wasted_worker_hours": 1268.0,
+    "windows": 24,
+    "worker_hours": 1268.0
+   },
+   "hpa": {
+    "attainment": 0.0,
+    "met": 0,
+    "waste_share": 1.0,
+    "wasted_worker_hours": 1224.17,
+    "windows": 24,
+    "worker_hours": 1224.17
+   },
+   "peak": {
+    "attainment": 0.0,
+    "met": 0,
+    "waste_share": 1.0,
+    "wasted_worker_hours": 2750.0,
+    "windows": 24,
+    "worker_hours": 2750.0
+   }
+  },
+  "30000/0.9": {
+   "dca": {
+    "attainment": 1.0,
+    "met": 24,
+    "waste_share": 0.0,
+    "wasted_worker_hours": 0.0,
+    "windows": 24,
+    "worker_hours": 432.5
+   },
+   "dca_prev": {
+    "attainment": 0.9167,
+    "met": 22,
+    "waste_share": 0.0155,
+    "wasted_worker_hours": 19.0,
+    "windows": 24,
+    "worker_hours": 1224.17
+   },
+   "dca_told": {
+    "attainment": 0.9167,
+    "met": 22,
+    "waste_share": 0.0155,
+    "wasted_worker_hours": 19.0,
+    "windows": 24,
+    "worker_hours": 1224.17
+   },
+   "fixed_mean": {
+    "attainment": 1.0,
+    "met": 24,
+    "waste_share": 0.0,
+    "wasted_worker_hours": 0.0,
+    "windows": 24,
+    "worker_hours": 1268.0
+   },
+   "hpa": {
+    "attainment": 0.9167,
+    "met": 22,
+    "waste_share": 0.0155,
+    "wasted_worker_hours": 19.0,
+    "windows": 24,
+    "worker_hours": 1224.17
+   },
+   "peak": {
+    "attainment": 1.0,
+    "met": 24,
+    "waste_share": 0.0,
+    "wasted_worker_hours": 0.0,
+    "windows": 24,
+    "worker_hours": 2750.0
+   }
+  }
+ }
+}

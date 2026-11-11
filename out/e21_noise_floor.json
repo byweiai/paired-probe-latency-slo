@@ -1,0 +1,16 @@
+{
+ "iqr_ms": [
+  95.9,
+  417.0
+ ],
+ "median_abs_ms": 202.1,
+ "median_ratio": 0.92,
+ "n_pairs": 137,
+ "p_second_faster": 0.599,
+ "pct_of_3s_iqr": [
+  3.2,
+  13.9
+ ],
+ "pct_of_3s_median": 6.74,
+ "stacks": 4
+}

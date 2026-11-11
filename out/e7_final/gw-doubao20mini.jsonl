@@ -1,0 +1,267 @@
+{"arm": "solo", "c": 1, "chunks": 255, "cls": "short_qa", "e2e_ms": 2905.2, "err": "", "id": "A0", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 496.83308601379395}
+{"arm": "solo", "c": 1, "chunks": 132, "cls": "short_qa", "e2e_ms": 1595.1, "err": "", "id": "A1", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 468.5099124908447}
+{"arm": "solo", "c": 1, "chunks": 121, "cls": "short_qa", "e2e_ms": 1816.5, "err": "", "id": "A2", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 761.317253112793}
+{"arm": "solo", "c": 1, "chunks": 115, "cls": "short_qa", "e2e_ms": 2315.5, "err": "", "id": "A3", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1016.9029235839844}
+{"arm": "solo", "c": 1, "chunks": 315, "cls": "short_qa", "e2e_ms": 3141.8, "err": "", "id": "A4", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 705.5635452270508}
+{"arm": "solo", "c": 1, "chunks": 211, "cls": "short_qa", "e2e_ms": 2474.7, "err": "", "id": "A5", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 747.8611469268799}
+{"arm": "solo", "c": 1, "chunks": 133, "cls": "short_qa", "e2e_ms": 1786.7, "err": "", "id": "A6", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 550.9417057037354}
+{"arm": "solo", "c": 1, "chunks": 100, "cls": "short_qa", "e2e_ms": 1440.6, "err": "", "id": "A7", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 420.2580451965332}
+{"arm": "solo", "c": 1, "chunks": 112, "cls": "short_qa", "e2e_ms": 1700.8, "err": "", "id": "A8", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 620.305061340332}
+{"arm": "solo", "c": 1, "chunks": 307, "cls": "short_qa", "e2e_ms": 2891.1, "err": "", "id": "A9", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 410.3248119354248}
+{"arm": "solo", "c": 1, "chunks": 1036, "cls": "explain", "e2e_ms": 9095.1, "err": "", "id": "B0", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 532.0641994476318}
+{"arm": "solo", "c": 1, "chunks": 817, "cls": "explain", "e2e_ms": 9684.8, "err": "", "id": "B1", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 593.6641693115234}
+{"arm": "solo", "c": 1, "chunks": 1634, "cls": "explain", "e2e_ms": 11952.8, "err": "", "id": "B2", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 431.0190677642822}
+{"arm": "solo", "c": 1, "chunks": 700, "cls": "explain", "e2e_ms": 109494.0, "err": "", "id": "B3", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 544.5027351379395}
+{"arm": "solo", "c": 1, "chunks": 875, "cls": "explain", "e2e_ms": 7486.0, "err": "", "id": "B4", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 819.5979595184326}
+{"arm": "solo", "c": 1, "chunks": 1067, "cls": "explain", "e2e_ms": 9286.6, "err": "", "id": "B5", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 597.9206562042236}
+{"arm": "solo", "c": 1, "chunks": 1012, "cls": "explain", "e2e_ms": 8152.4, "err": "", "id": "B6", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 681.1020374298096}
+{"arm": "solo", "c": 1, "chunks": 832, "cls": "explain", "e2e_ms": 7211.1, "err": "", "id": "B7", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 499.1304874420166}
+{"arm": "solo", "c": 1, "chunks": 894, "cls": "explain", "e2e_ms": 8257.2, "err": "", "id": "B8", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 485.4164123535156}
+{"arm": "solo", "c": 1, "chunks": 901, "cls": "explain", "e2e_ms": 8510.7, "err": "", "id": "B9", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 404.64282035827637}
+{"arm": "solo", "c": 1, "chunks": 2604, "cls": "long_gen", "e2e_ms": 22807.2, "err": "", "id": "C0", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 496.35791778564453}
+{"arm": "solo", "c": 1, "chunks": 2384, "cls": "long_gen", "e2e_ms": 21678.5, "err": "", "id": "C1", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 548.8934516906738}
+{"arm": "solo", "c": 1, "chunks": 2484, "cls": "long_gen", "e2e_ms": 20412.6, "err": "", "id": "C2", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1018.4531211853027}
+{"arm": "solo", "c": 1, "chunks": 2637, "cls": "long_gen", "e2e_ms": 26374.4, "err": "", "id": "C3", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 646.0094451904297}
+{"arm": "solo", "c": 1, "chunks": 2378, "cls": "long_gen", "e2e_ms": 20931.0, "err": "", "id": "C4", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 436.1615180969238}
+{"arm": "solo", "c": 1, "chunks": 2677, "cls": "long_gen", "e2e_ms": 23653.8, "err": "", "id": "C5", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 634.1209411621094}
+{"arm": "solo", "c": 1, "chunks": 3151, "cls": "long_gen", "e2e_ms": 25993.5, "err": "", "id": "C6", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 568.6099529266357}
+{"arm": "solo", "c": 1, "chunks": 3086, "cls": "long_gen", "e2e_ms": 25678.0, "err": "", "id": "C7", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 618.170976638794}
+{"arm": "solo", "c": 1, "chunks": 2761, "cls": "long_gen", "e2e_ms": 24062.3, "err": "", "id": "C8", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 516.5605545043945}
+{"arm": "solo", "c": 1, "chunks": 2714, "cls": "long_gen", "e2e_ms": 27242.9, "err": "", "id": "C9", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 968.1615829467773}
+{"arm": "solo", "c": 1, "chunks": 333, "cls": "long_ctx", "e2e_ms": 3176.2, "err": "", "id": "D0", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 705.1222324371338}
+{"arm": "solo", "c": 1, "chunks": 290, "cls": "long_ctx", "e2e_ms": 2638.4, "err": "", "id": "D1", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 539.5195484161377}
+{"arm": "solo", "c": 1, "chunks": 625, "cls": "long_ctx", "e2e_ms": 5539.1, "err": "", "id": "D2", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 648.4279632568359}
+{"arm": "solo", "c": 1, "chunks": 245, "cls": "long_ctx", "e2e_ms": 2373.8, "err": "", "id": "D3", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 408.9972972869873}
+{"arm": "solo", "c": 1, "chunks": 253, "cls": "long_ctx", "e2e_ms": 2775.7, "err": "", "id": "D4", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 616.5475845336914}
+{"arm": "solo", "c": 1, "chunks": 131, "cls": "long_ctx", "e2e_ms": 1485.3, "err": "", "id": "D5", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 434.4899654388428}
+{"arm": "solo", "c": 1, "chunks": 96, "cls": "long_ctx", "e2e_ms": 1244.3, "err": "", "id": "D6", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 431.43534660339355}
+{"arm": "solo", "c": 1, "chunks": 108, "cls": "long_ctx", "e2e_ms": 31900.7, "err": "", "id": "D7", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 459.81431007385254}
+{"arm": "solo", "c": 1, "chunks": 719, "cls": "long_ctx", "e2e_ms": 6788.3, "err": "", "id": "D8", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 876.7616748809814}
+{"arm": "solo", "c": 1, "chunks": 135, "cls": "long_ctx", "e2e_ms": 2177.1, "err": "", "id": "D9", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 675.295352935791}
+{"arm": "load", "c": 50, "chunks": 103, "cls": "short_qa", "e2e_ms": 4135.2, "err": "", "id": "A0", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 612.1647357940674}
+{"arm": "load", "c": 50, "chunks": 993, "cls": "explain", "e2e_ms": 9242.4, "err": "", "id": "B0", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 841.5989875793457}
+{"arm": "load", "c": 50, "chunks": 984, "cls": "explain", "e2e_ms": 9610.3, "err": "", "id": "B6", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1594.435453414917}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "long_ctx", "e2e_ms": 10137.7, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "D7", "round": 0, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "long_gen", "e2e_ms": 10150.4, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "C1", "round": 0, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "long_ctx", "e2e_ms": 10139.4, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "D9", "round": 0, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "long_ctx", "e2e_ms": 10148.9, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "D0", "round": 0, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "explain", "e2e_ms": 10158.3, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "B9", "round": 0, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "long_gen", "e2e_ms": 10159.5, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "C0", "round": 0, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "long_ctx", "e2e_ms": 10150.1, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "D2", "round": 0, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "explain", "e2e_ms": 10162.5, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "B7", "round": 0, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "long_ctx", "e2e_ms": 10149.6, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "D3", "round": 0, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "long_gen", "e2e_ms": 10156.1, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "C6", "round": 0, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "long_gen", "e2e_ms": 10153.8, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "C9", "round": 0, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "long_gen", "e2e_ms": 10159.1, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "C4", "round": 0, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "long_ctx", "e2e_ms": 10150.7, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "D4", "round": 0, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "long_gen", "e2e_ms": 10161.7, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "C2", "round": 0, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "long_ctx", "e2e_ms": 10151.8, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "D5", "round": 0, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "long_gen", "e2e_ms": 10157.2, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "C8", "round": 0, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "long_ctx", "e2e_ms": 10156.5, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "D8", "round": 0, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 135, "cls": "short_qa", "e2e_ms": 11751.5, "err": "", "id": "A6", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1612.9772663116455}
+{"arm": "load", "c": 50, "chunks": 1062, "cls": "explain", "e2e_ms": 11760.2, "err": "", "id": "B1", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 2767.3633098602295}
+{"arm": "load", "c": 50, "chunks": 285, "cls": "short_qa", "e2e_ms": 11950.7, "err": "", "id": "A3", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1660.2935791015625}
+{"arm": "load", "c": 50, "chunks": 348, "cls": "short_qa", "e2e_ms": 12033.4, "err": "", "id": "A9", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 585.3345394134521}
+{"arm": "load", "c": 50, "chunks": 44, "cls": "short_qa", "e2e_ms": 15922.3, "err": "", "id": "A1", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 689.5191669464111}
+{"arm": "load", "c": 50, "chunks": 945, "cls": "explain", "e2e_ms": 16048.9, "err": "", "id": "B3", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 530.8988094329834}
+{"arm": "load", "c": 50, "chunks": 1566, "cls": "explain", "e2e_ms": 16213.3, "err": "", "id": "B5", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 670.3321933746338}
+{"arm": "load", "c": 50, "chunks": 104, "cls": "short_qa", "e2e_ms": 17914.6, "err": "", "id": "A8", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 599.9271869659424}
+{"arm": "load", "c": 50, "chunks": 135, "cls": "short_qa", "e2e_ms": 18843.0, "err": "", "id": "A7", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1592.7314758300781}
+{"arm": "load", "c": 50, "chunks": 2139, "cls": "long_gen", "e2e_ms": 19630.5, "err": "", "id": "C7", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 567.8472518920898}
+{"arm": "load", "c": 50, "chunks": 2342, "cls": "long_gen", "e2e_ms": 19896.3, "err": "", "id": "C3", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 555.3896427154541}
+{"arm": "load", "c": 50, "chunks": 64, "cls": "short_qa", "e2e_ms": 20230.9, "err": "", "id": "A2", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 615.3030395507812}
+{"arm": "load", "c": 50, "chunks": 447, "cls": "short_qa", "e2e_ms": 20648.6, "err": "", "id": "A4", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 2606.3830852508545}
+{"arm": "load", "c": 50, "chunks": 461, "cls": "short_qa", "e2e_ms": 20673.8, "err": "", "id": "A5", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 617.8066730499268}
+{"arm": "load", "c": 50, "chunks": 2369, "cls": "long_gen", "e2e_ms": 20893.6, "err": "", "id": "C5", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 502.2139549255371}
+{"arm": "load", "c": 50, "chunks": 758, "cls": "explain", "e2e_ms": 22679.4, "err": "", "id": "B4", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 594.6643352508545}
+{"arm": "load", "c": 50, "chunks": 921, "cls": "explain", "e2e_ms": 23001.0, "err": "", "id": "B2", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 674.6675968170166}
+{"arm": "load", "c": 50, "chunks": 247, "cls": "long_ctx", "e2e_ms": 33826.8, "err": "", "id": "D6", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 562.4799728393555}
+{"arm": "load", "c": 50, "chunks": 116, "cls": "long_ctx", "e2e_ms": 34148.8, "err": "", "id": "D1", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 580.1777839660645}
+{"arm": "load", "c": 50, "chunks": 967, "cls": "explain", "e2e_ms": 34987.6, "err": "", "id": "B8", "round": 0, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 590.491533279419}
+{"arm": "solo", "c": 1, "chunks": 1381, "cls": "short_qa", "e2e_ms": 24919.9, "err": "", "id": "A0", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 481.6908836364746}
+{"arm": "solo", "c": 1, "chunks": 73, "cls": "short_qa", "e2e_ms": 1338.8, "err": "", "id": "A1", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 506.41584396362305}
+{"arm": "solo", "c": 1, "chunks": 67, "cls": "short_qa", "e2e_ms": 1003.5, "err": "", "id": "A2", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 492.1271800994873}
+{"arm": "solo", "c": 1, "chunks": 111, "cls": "short_qa", "e2e_ms": 2389.8, "err": "", "id": "A3", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1662.9118919372559}
+{"arm": "solo", "c": 1, "chunks": 412, "cls": "short_qa", "e2e_ms": 4023.6, "err": "", "id": "A4", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1022.7961540222168}
+{"arm": "solo", "c": 1, "chunks": 728, "cls": "short_qa", "e2e_ms": 7102.4, "err": "", "id": "A5", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 529.4873714447021}
+{"arm": "solo", "c": 1, "chunks": 59, "cls": "short_qa", "e2e_ms": 1234.1, "err": "", "id": "A6", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 554.1422367095947}
+{"arm": "solo", "c": 1, "chunks": 74, "cls": "short_qa", "e2e_ms": 1580.5, "err": "", "id": "A7", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 866.2035465240479}
+{"arm": "solo", "c": 1, "chunks": 172, "cls": "short_qa", "e2e_ms": 2014.2, "err": "", "id": "A8", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 549.7870445251465}
+{"arm": "solo", "c": 1, "chunks": 395, "cls": "short_qa", "e2e_ms": 3960.7, "err": "", "id": "A9", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 448.594331741333}
+{"arm": "solo", "c": 1, "chunks": 1837, "cls": "explain", "e2e_ms": 13931.0, "err": "", "id": "B0", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 499.36914443969727}
+{"arm": "solo", "c": 1, "chunks": 856, "cls": "explain", "e2e_ms": 7756.4, "err": "", "id": "B1", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 458.5285186767578}
+{"arm": "solo", "c": 1, "chunks": 740, "cls": "explain", "e2e_ms": 6424.1, "err": "", "id": "B2", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 498.9635944366455}
+{"arm": "solo", "c": 1, "chunks": 882, "cls": "explain", "e2e_ms": 14374.0, "err": "", "id": "B3", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 715.0461673736572}
+{"arm": "solo", "c": 1, "chunks": 836, "cls": "explain", "e2e_ms": 9391.8, "err": "", "id": "B4", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 808.9151382446289}
+{"arm": "solo", "c": 1, "chunks": 947, "cls": "explain", "e2e_ms": 8434.6, "err": "", "id": "B5", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 658.2088470458984}
+{"arm": "solo", "c": 1, "chunks": 956, "cls": "explain", "e2e_ms": 8309.6, "err": "", "id": "B6", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 522.6287841796875}
+{"arm": "solo", "c": 1, "chunks": 988, "cls": "explain", "e2e_ms": 13143.8, "err": "", "id": "B7", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 11212.084293365479}
+{"arm": "solo", "c": 1, "chunks": 1035, "cls": "explain", "e2e_ms": 9291.2, "err": "", "id": "B8", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 588.5043144226074}
+{"arm": "solo", "c": 1, "chunks": 875, "cls": "explain", "e2e_ms": 7960.3, "err": "", "id": "B9", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 545.4661846160889}
+{"arm": "solo", "c": 1, "chunks": 3251, "cls": "long_gen", "e2e_ms": 27136.5, "err": "", "id": "C0", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 685.3053569793701}
+{"arm": "solo", "c": 1, "chunks": 3385, "cls": "long_gen", "e2e_ms": 34408.6, "err": "", "id": "C1", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 444.68069076538086}
+{"arm": "solo", "c": 1, "chunks": 2601, "cls": "long_gen", "e2e_ms": 30780.8, "err": "", "id": "C2", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 553.1020164489746}
+{"arm": "solo", "c": 1, "chunks": 3269, "cls": "long_gen", "e2e_ms": 28955.7, "err": "", "id": "C3", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 886.5451812744141}
+{"arm": "solo", "c": 1, "chunks": 2110, "cls": "long_gen", "e2e_ms": 28176.0, "err": "", "id": "C4", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 704.0596008300781}
+{"arm": "solo", "c": 1, "chunks": 2466, "cls": "long_gen", "e2e_ms": 24512.5, "err": "", "id": "C5", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 4442.494630813599}
+{"arm": "solo", "c": 1, "chunks": 2360, "cls": "long_gen", "e2e_ms": 21249.3, "err": "", "id": "C6", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 749.7899532318115}
+{"arm": "solo", "c": 1, "chunks": 2165, "cls": "long_gen", "e2e_ms": 20902.3, "err": "", "id": "C7", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 539.5562648773193}
+{"arm": "solo", "c": 1, "chunks": 2256, "cls": "long_gen", "e2e_ms": 20857.8, "err": "", "id": "C8", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 625.1051425933838}
+{"arm": "solo", "c": 1, "chunks": 3140, "cls": "long_gen", "e2e_ms": 26307.7, "err": "", "id": "C9", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 504.6875476837158}
+{"arm": "solo", "c": 1, "chunks": 448, "cls": "long_ctx", "e2e_ms": 3806.1, "err": "", "id": "D0", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 548.0072498321533}
+{"arm": "solo", "c": 1, "chunks": 673, "cls": "long_ctx", "e2e_ms": 5791.4, "err": "", "id": "D1", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 524.6090888977051}
+{"arm": "solo", "c": 1, "chunks": 396, "cls": "long_ctx", "e2e_ms": 3855.4, "err": "", "id": "D2", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 549.7486591339111}
+{"arm": "solo", "c": 1, "chunks": 230, "cls": "long_ctx", "e2e_ms": 2671.5, "err": "", "id": "D3", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 768.5413360595703}
+{"arm": "solo", "c": 1, "chunks": 398, "cls": "long_ctx", "e2e_ms": 4067.4, "err": "", "id": "D4", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 934.1342449188232}
+{"arm": "solo", "c": 1, "chunks": 272, "cls": "long_ctx", "e2e_ms": 3008.7, "err": "", "id": "D5", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 951.2326717376709}
+{"arm": "solo", "c": 1, "chunks": 298, "cls": "long_ctx", "e2e_ms": 3748.3, "err": "", "id": "D6", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 595.433235168457}
+{"arm": "solo", "c": 1, "chunks": 330, "cls": "long_ctx", "e2e_ms": 3720.9, "err": "", "id": "D7", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 635.5204582214355}
+{"arm": "solo", "c": 1, "chunks": 195, "cls": "long_ctx", "e2e_ms": 1984.2, "err": "", "id": "D8", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 505.9638023376465}
+{"arm": "solo", "c": 1, "chunks": 278, "cls": "long_ctx", "e2e_ms": 3317.5, "err": "", "id": "D9", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1134.2594623565674}
+{"arm": "load", "c": 50, "chunks": 106, "cls": "short_qa", "e2e_ms": 1859.4, "err": "", "id": "A1", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 764.4815444946289}
+{"arm": "load", "c": 50, "chunks": 108, "cls": "long_ctx", "e2e_ms": 1895.4, "err": "", "id": "D7", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 736.3553047180176}
+{"arm": "load", "c": 50, "chunks": 142, "cls": "long_ctx", "e2e_ms": 1901.1, "err": "", "id": "D8", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 873.2082843780518}
+{"arm": "load", "c": 50, "chunks": 240, "cls": "short_qa", "e2e_ms": 3041.2, "err": "", "id": "A5", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 969.6214199066162}
+{"arm": "load", "c": 50, "chunks": 104, "cls": "short_qa", "e2e_ms": 4177.6, "err": "", "id": "A0", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 781.9662094116211}
+{"arm": "load", "c": 50, "chunks": 169, "cls": "short_qa", "e2e_ms": 4746.6, "err": "", "id": "A8", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 747.6000785827637}
+{"arm": "load", "c": 50, "chunks": 116, "cls": "short_qa", "e2e_ms": 4753.0, "err": "", "id": "A7", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 762.2461318969727}
+{"arm": "load", "c": 50, "chunks": 259, "cls": "long_ctx", "e2e_ms": 6404.8, "err": "", "id": "D5", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 727.841854095459}
+{"arm": "load", "c": 50, "chunks": 842, "cls": "explain", "e2e_ms": 7359.9, "err": "", "id": "B8", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 725.5303859710693}
+{"arm": "load", "c": 50, "chunks": 766, "cls": "explain", "e2e_ms": 8292.4, "err": "", "id": "B1", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1733.820915222168}
+{"arm": "load", "c": 50, "chunks": 98, "cls": "short_qa", "e2e_ms": 8942.0, "err": "", "id": "A2", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 7970.783472061157}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "explain", "e2e_ms": 10145.7, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "B4", "round": 1, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "short_qa", "e2e_ms": 10157.3, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "A9", "round": 1, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "long_gen", "e2e_ms": 10148.3, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "C6", "round": 1, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "explain", "e2e_ms": 10152.5, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "B7", "round": 1, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "short_qa", "e2e_ms": 10162.7, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "A4", "round": 1, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "short_qa", "e2e_ms": 10161.7, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "A6", "round": 1, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "long_ctx", "e2e_ms": 10151.1, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "D0", "round": 1, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "long_gen", "e2e_ms": 10158.6, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "C1", "round": 1, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "long_ctx", "e2e_ms": 10156.8, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "D2", "round": 1, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 0, "cls": "explain", "e2e_ms": 10163.6, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "B9", "round": 1, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "load", "c": 50, "chunks": 261, "cls": "long_ctx", "e2e_ms": 12223.5, "err": "", "id": "D9", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 8197.810411453247}
+{"arm": "load", "c": 50, "chunks": 421, "cls": "long_ctx", "e2e_ms": 14892.1, "err": "", "id": "D6", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 8212.770462036133}
+{"arm": "load", "c": 50, "chunks": 96, "cls": "short_qa", "e2e_ms": 24933.3, "err": "", "id": "A3", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 7976.781129837036}
+{"arm": "load", "c": 50, "chunks": 773, "cls": "explain", "e2e_ms": 34559.2, "err": "", "id": "B3", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 739.5772933959961}
+{"arm": "load", "c": 50, "chunks": 851, "cls": "explain", "e2e_ms": 37528.5, "err": "", "id": "B2", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 776.6573429107666}
+{"arm": "load", "c": 50, "chunks": 218, "cls": "long_ctx", "e2e_ms": 37623.0, "err": "", "id": "D3", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 8249.892950057983}
+{"arm": "load", "c": 50, "chunks": 2076, "cls": "explain", "e2e_ms": 40972.8, "err": "", "id": "B0", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 745.980978012085}
+{"arm": "load", "c": 50, "chunks": 2043, "cls": "long_gen", "e2e_ms": 41024.5, "err": "", "id": "C7", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 741.5406703948975}
+{"arm": "load", "c": 50, "chunks": 2451, "cls": "long_gen", "e2e_ms": 41523.5, "err": "", "id": "C3", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 902.146577835083}
+{"arm": "load", "c": 50, "chunks": 673, "cls": "long_ctx", "e2e_ms": 41668.0, "err": "", "id": "D4", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 8337.963342666626}
+{"arm": "load", "c": 50, "chunks": 488, "cls": "long_gen", "e2e_ms": 41681.9, "err": "", "id": "C8", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 8046.894550323486}
+{"arm": "load", "c": 50, "chunks": 532, "cls": "long_gen", "e2e_ms": 41707.0, "err": "", "id": "C9", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 7844.420671463013}
+{"arm": "load", "c": 50, "chunks": 3269, "cls": "long_gen", "e2e_ms": 41936.3, "err": "", "id": "C0", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 739.5296096801758}
+{"arm": "load", "c": 50, "chunks": 2455, "cls": "long_gen", "e2e_ms": 42052.4, "err": "", "id": "C2", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 7980.341672897339}
+{"arm": "load", "c": 50, "chunks": 3168, "cls": "long_gen", "e2e_ms": 42414.9, "err": "", "id": "C4", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 752.4397373199463}
+{"arm": "load", "c": 50, "chunks": 2267, "cls": "long_gen", "e2e_ms": 43035.2, "err": "", "id": "C5", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 7916.7046546936035}
+{"arm": "load", "c": 50, "chunks": 284, "cls": "explain", "e2e_ms": 45191.2, "err": "", "id": "B6", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 7885.7293128967285}
+{"arm": "load", "c": 50, "chunks": 272, "cls": "long_ctx", "e2e_ms": 45216.3, "err": "", "id": "D1", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 8833.948135375977}
+{"arm": "load", "c": 50, "chunks": 360, "cls": "explain", "e2e_ms": 45272.4, "err": "", "id": "B5", "round": 1, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 7881.27064704895}
+{"arm": "solo", "c": 1, "chunks": 485, "cls": "short_qa", "e2e_ms": 5834.7, "err": "", "id": "A0", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 556.7097663879395}
+{"arm": "solo", "c": 1, "chunks": 66, "cls": "short_qa", "e2e_ms": 1816.6, "err": "", "id": "A1", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1110.9890937805176}
+{"arm": "solo", "c": 1, "chunks": 45, "cls": "short_qa", "e2e_ms": 1146.2, "err": "", "id": "A2", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 895.7586288452148}
+{"arm": "solo", "c": 1, "chunks": 156, "cls": "short_qa", "e2e_ms": 1955.3, "err": "", "id": "A3", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 686.8171691894531}
+{"arm": "solo", "c": 1, "chunks": 349, "cls": "short_qa", "e2e_ms": 3278.5, "err": "", "id": "A4", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 551.2261390686035}
+{"arm": "solo", "c": 1, "chunks": 1233, "cls": "short_qa", "e2e_ms": 11570.5, "err": "", "id": "A5", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 830.6238651275635}
+{"arm": "solo", "c": 1, "chunks": 113, "cls": "short_qa", "e2e_ms": 1669.6, "err": "", "id": "A6", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 493.9100742340088}
+{"arm": "solo", "c": 1, "chunks": 115, "cls": "short_qa", "e2e_ms": 1601.6, "err": "", "id": "A7", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 474.4114875793457}
+{"arm": "solo", "c": 1, "chunks": 152, "cls": "short_qa", "e2e_ms": 1878.5, "err": "", "id": "A8", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 458.5089683532715}
+{"arm": "solo", "c": 1, "chunks": 366, "cls": "short_qa", "e2e_ms": 3699.8, "err": "", "id": "A9", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 576.1141777038574}
+{"arm": "solo", "c": 1, "chunks": 2226, "cls": "explain", "e2e_ms": 17128.2, "err": "", "id": "B0", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 881.5698623657227}
+{"arm": "solo", "c": 1, "chunks": 629, "cls": "explain", "e2e_ms": 6727.8, "err": "", "id": "B1", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 574.8376846313477}
+{"arm": "solo", "c": 1, "chunks": 841, "cls": "explain", "e2e_ms": 8873.8, "err": "", "id": "B2", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1323.455810546875}
+{"arm": "solo", "c": 1, "chunks": 1052, "cls": "explain", "e2e_ms": 10395.7, "err": "", "id": "B3", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 997.6937770843506}
+{"arm": "solo", "c": 1, "chunks": 1293, "cls": "explain", "e2e_ms": 11808.1, "err": "", "id": "B4", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 518.2352066040039}
+{"arm": "solo", "c": 1, "chunks": 1041, "cls": "explain", "e2e_ms": 32114.8, "err": "", "id": "B5", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 622.6882934570312}
+{"arm": "solo", "c": 1, "chunks": 1311, "cls": "explain", "e2e_ms": 11778.5, "err": "", "id": "B6", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 728.6911010742188}
+{"arm": "solo", "c": 1, "chunks": 2054, "cls": "explain", "e2e_ms": 15244.7, "err": "", "id": "B7", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1179.530382156372}
+{"arm": "solo", "c": 1, "chunks": 1875, "cls": "explain", "e2e_ms": 14533.5, "err": "", "id": "B8", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 938.8773441314697}
+{"arm": "solo", "c": 1, "chunks": 1127, "cls": "explain", "e2e_ms": 11726.7, "err": "", "id": "B9", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 507.4586868286133}
+{"arm": "solo", "c": 1, "chunks": 3256, "cls": "long_gen", "e2e_ms": 27142.7, "err": "", "id": "C0", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1605.2639484405518}
+{"arm": "solo", "c": 1, "chunks": 2555, "cls": "long_gen", "e2e_ms": 22772.4, "err": "", "id": "C1", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 728.5933494567871}
+{"arm": "solo", "c": 1, "chunks": 2606, "cls": "long_gen", "e2e_ms": 27882.4, "err": "", "id": "C2", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 899.39284324646}
+{"arm": "solo", "c": 1, "chunks": 3414, "cls": "long_gen", "e2e_ms": 31487.4, "err": "", "id": "C3", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 498.2867240905762}
+{"arm": "solo", "c": 1, "chunks": 2227, "cls": "long_gen", "e2e_ms": 22496.5, "err": "", "id": "C4", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 666.9483184814453}
+{"arm": "solo", "c": 1, "chunks": 2260, "cls": "long_gen", "e2e_ms": 21476.4, "err": "", "id": "C5", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 785.1047515869141}
+{"arm": "solo", "c": 1, "chunks": 2795, "cls": "long_gen", "e2e_ms": 25290.8, "err": "", "id": "C6", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 513.24462890625}
+{"arm": "solo", "c": 1, "chunks": 2416, "cls": "long_gen", "e2e_ms": 22091.8, "err": "", "id": "C7", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 571.1226463317871}
+{"arm": "solo", "c": 1, "chunks": 3616, "cls": "long_gen", "e2e_ms": 31591.1, "err": "", "id": "C8", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 830.7604789733887}
+{"arm": "solo", "c": 1, "chunks": 2412, "cls": "long_gen", "e2e_ms": 21172.7, "err": "", "id": "C9", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 580.2938938140869}
+{"arm": "solo", "c": 1, "chunks": 0, "cls": "long_ctx", "e2e_ms": 5005.3, "err": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>", "id": "D0", "round": 2, "status": -1, "tag": "gw-<provider>20mini", "ttft_ms": null}
+{"arm": "solo", "c": 1, "chunks": 134, "cls": "long_ctx", "e2e_ms": 1903.1, "err": "", "id": "D1", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 774.8486995697021}
+{"arm": "solo", "c": 1, "chunks": 179, "cls": "long_ctx", "e2e_ms": 5573.6, "err": "", "id": "D2", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 4197.628021240234}
+{"arm": "solo", "c": 1, "chunks": 297, "cls": "long_ctx", "e2e_ms": 3847.3, "err": "", "id": "D3", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 481.42433166503906}
+{"arm": "solo", "c": 1, "chunks": 248, "cls": "long_ctx", "e2e_ms": 2900.4, "err": "", "id": "D4", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 550.1739978790283}
+{"arm": "solo", "c": 1, "chunks": 482, "cls": "long_ctx", "e2e_ms": 4831.3, "err": "", "id": "D5", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1087.9778861999512}
+{"arm": "solo", "c": 1, "chunks": 134, "cls": "long_ctx", "e2e_ms": 1444.1, "err": "", "id": "D6", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 398.1788158416748}
+{"arm": "solo", "c": 1, "chunks": 241, "cls": "long_ctx", "e2e_ms": 2545.2, "err": "", "id": "D7", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 758.7342262268066}
+{"arm": "solo", "c": 1, "chunks": 587, "cls": "long_ctx", "e2e_ms": 5833.9, "err": "", "id": "D8", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 784.1794490814209}
+{"arm": "solo", "c": 1, "chunks": 514, "cls": "long_ctx", "e2e_ms": 4659.4, "err": "", "id": "D9", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 633.3246231079102}
+{"arm": "load", "c": 50, "chunks": 153, "cls": "short_qa", "e2e_ms": 2834.4, "err": "", "id": "A8", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1727.9486656188965}
+{"arm": "load", "c": 50, "chunks": 86, "cls": "short_qa", "e2e_ms": 5273.2, "err": "", "id": "A7", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 717.0455455780029}
+{"arm": "load", "c": 50, "chunks": 464, "cls": "short_qa", "e2e_ms": 5672.6, "err": "", "id": "A0", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 724.2817878723145}
+{"arm": "load", "c": 50, "chunks": 303, "cls": "short_qa", "e2e_ms": 5890.2, "err": "", "id": "A4", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 726.2139320373535}
+{"arm": "load", "c": 50, "chunks": 1022, "cls": "explain", "e2e_ms": 8848.0, "err": "", "id": "B4", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 748.6369609832764}
+{"arm": "load", "c": 50, "chunks": 997, "cls": "explain", "e2e_ms": 9035.5, "err": "", "id": "B7", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 703.1373977661133}
+{"arm": "load", "c": 50, "chunks": 233, "cls": "long_ctx", "e2e_ms": 9119.1, "err": "", "id": "D6", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 669.6634292602539}
+{"arm": "load", "c": 50, "chunks": 192, "cls": "short_qa", "e2e_ms": 9155.6, "err": "", "id": "A9", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 710.3397846221924}
+{"arm": "load", "c": 50, "chunks": 262, "cls": "long_ctx", "e2e_ms": 9298.3, "err": "", "id": "D8", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1741.9955730438232}
+{"arm": "load", "c": 50, "chunks": 299, "cls": "long_ctx", "e2e_ms": 9342.8, "err": "", "id": "D9", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 729.2056083679199}
+{"arm": "load", "c": 50, "chunks": 1024, "cls": "explain", "e2e_ms": 10050.1, "err": "", "id": "B9", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1725.6367206573486}
+{"arm": "load", "c": 50, "chunks": 330, "cls": "long_ctx", "e2e_ms": 10062.0, "err": "", "id": "D7", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 730.262041091919}
+{"arm": "load", "c": 50, "chunks": 522, "cls": "long_ctx", "e2e_ms": 10173.8, "err": "", "id": "D5", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 791.7542457580566}
+{"arm": "load", "c": 50, "chunks": 648, "cls": "long_ctx", "e2e_ms": 10337.9, "err": "", "id": "D4", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 650.1359939575195}
+{"arm": "load", "c": 50, "chunks": 193, "cls": "short_qa", "e2e_ms": 11802.1, "err": "", "id": "A3", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 757.8728199005127}
+{"arm": "load", "c": 50, "chunks": 250, "cls": "short_qa", "e2e_ms": 12588.1, "err": "", "id": "A5", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 709.2156410217285}
+{"arm": "load", "c": 50, "chunks": 192, "cls": "long_ctx", "e2e_ms": 12834.7, "err": "", "id": "D1", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 737.3213768005371}
+{"arm": "load", "c": 50, "chunks": 955, "cls": "explain", "e2e_ms": 13256.4, "err": "", "id": "B1", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1759.8843574523926}
+{"arm": "load", "c": 50, "chunks": 944, "cls": "explain", "e2e_ms": 14843.7, "err": "", "id": "B6", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 818.4707164764404}
+{"arm": "load", "c": 50, "chunks": 1044, "cls": "explain", "e2e_ms": 14946.9, "err": "", "id": "B0", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1802.3662567138672}
+{"arm": "load", "c": 50, "chunks": 40, "cls": "short_qa", "e2e_ms": 15911.4, "err": "", "id": "A2", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 713.1152153015137}
+{"arm": "load", "c": 50, "chunks": 101, "cls": "short_qa", "e2e_ms": 17054.7, "err": "", "id": "A1", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 723.6108779907227}
+{"arm": "load", "c": 50, "chunks": 223, "cls": "long_ctx", "e2e_ms": 18707.3, "err": "", "id": "D2", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 692.511796951294}
+{"arm": "load", "c": 50, "chunks": 183, "cls": "short_qa", "e2e_ms": 18818.8, "err": "", "id": "A6", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 773.5671997070312}
+{"arm": "load", "c": 50, "chunks": 2248, "cls": "long_gen", "e2e_ms": 20073.4, "err": "", "id": "C3", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 7589.672565460205}
+{"arm": "load", "c": 50, "chunks": 2534, "cls": "long_gen", "e2e_ms": 21915.9, "err": "", "id": "C4", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1707.8235149383545}
+{"arm": "load", "c": 50, "chunks": 2398, "cls": "long_gen", "e2e_ms": 23314.3, "err": "", "id": "C5", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 707.6625823974609}
+{"arm": "load", "c": 50, "chunks": 764, "cls": "explain", "e2e_ms": 23412.2, "err": "", "id": "B2", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 747.5841045379639}
+{"arm": "load", "c": 50, "chunks": 2612, "cls": "long_gen", "e2e_ms": 24310.6, "err": "", "id": "C8", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1695.420742034912}
+{"arm": "load", "c": 50, "chunks": 2828, "cls": "long_gen", "e2e_ms": 24535.4, "err": "", "id": "C0", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 734.6169948577881}
+{"arm": "load", "c": 50, "chunks": 1875, "cls": "explain", "e2e_ms": 26651.9, "err": "", "id": "B5", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 718.8339233398438}
+{"arm": "load", "c": 50, "chunks": 2472, "cls": "long_gen", "e2e_ms": 26829.5, "err": "", "id": "C9", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 695.8358287811279}
+{"arm": "load", "c": 50, "chunks": 768, "cls": "explain", "e2e_ms": 28449.1, "err": "", "id": "B3", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1720.0756072998047}
+{"arm": "load", "c": 50, "chunks": 2724, "cls": "long_gen", "e2e_ms": 29949.7, "err": "", "id": "C1", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1721.6589450836182}
+{"arm": "load", "c": 50, "chunks": 2432, "cls": "long_gen", "e2e_ms": 30548.8, "err": "", "id": "C2", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 710.9432220458984}
+{"arm": "load", "c": 50, "chunks": 2712, "cls": "long_gen", "e2e_ms": 30740.7, "err": "", "id": "C7", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 700.5829811096191}
+{"arm": "load", "c": 50, "chunks": 155, "cls": "long_ctx", "e2e_ms": 33931.5, "err": "", "id": "D3", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1695.6307888031006}
+{"arm": "load", "c": 50, "chunks": 2364, "cls": "long_gen", "e2e_ms": 35186.0, "err": "", "id": "C6", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 690.0918483734131}
+{"arm": "load", "c": 50, "chunks": 984, "cls": "explain", "e2e_ms": 35667.9, "err": "", "id": "B8", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1700.6194591522217}
+{"arm": "load", "c": 50, "chunks": 392, "cls": "long_ctx", "e2e_ms": 35879.0, "err": "", "id": "D0", "round": 2, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1715.5489921569824}
+{"arm": "solo", "c": 1, "chunks": 333, "cls": "short_qa", "e2e_ms": 4071.2, "err": "", "id": "A0", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 622.6539611816406}
+{"arm": "solo", "c": 1, "chunks": 66, "cls": "short_qa", "e2e_ms": 1223.4, "err": "", "id": "A1", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 552.4814128875732}
+{"arm": "solo", "c": 1, "chunks": 125, "cls": "short_qa", "e2e_ms": 1848.5, "err": "", "id": "A2", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 676.7735481262207}
+{"arm": "solo", "c": 1, "chunks": 117, "cls": "short_qa", "e2e_ms": 1544.9, "err": "", "id": "A3", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 473.4930992126465}
+{"arm": "solo", "c": 1, "chunks": 257, "cls": "short_qa", "e2e_ms": 2808.1, "err": "", "id": "A4", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 523.1654644012451}
+{"arm": "solo", "c": 1, "chunks": 300, "cls": "short_qa", "e2e_ms": 3394.9, "err": "", "id": "A5", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 623.8033771514893}
+{"arm": "solo", "c": 1, "chunks": 98, "cls": "short_qa", "e2e_ms": 1716.2, "err": "", "id": "A6", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 650.3770351409912}
+{"arm": "solo", "c": 1, "chunks": 237, "cls": "short_qa", "e2e_ms": 2577.6, "err": "", "id": "A7", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 435.99414825439453}
+{"arm": "solo", "c": 1, "chunks": 127, "cls": "short_qa", "e2e_ms": 1878.5, "err": "", "id": "A8", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 862.6189231872559}
+{"arm": "solo", "c": 1, "chunks": 243, "cls": "short_qa", "e2e_ms": 2834.7, "err": "", "id": "A9", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 719.1128730773926}
+{"arm": "solo", "c": 1, "chunks": 1906, "cls": "explain", "e2e_ms": 15439.5, "err": "", "id": "B0", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1105.8151721954346}
+{"arm": "solo", "c": 1, "chunks": 905, "cls": "explain", "e2e_ms": 8933.1, "err": "", "id": "B1", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 649.4526863098145}
+{"arm": "solo", "c": 1, "chunks": 906, "cls": "explain", "e2e_ms": 8069.5, "err": "", "id": "B2", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 416.41736030578613}
+{"arm": "solo", "c": 1, "chunks": 699, "cls": "explain", "e2e_ms": 6301.6, "err": "", "id": "B3", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 510.97846031188965}
+{"arm": "solo", "c": 1, "chunks": 888, "cls": "explain", "e2e_ms": 8808.0, "err": "", "id": "B4", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1065.617322921753}
+{"arm": "solo", "c": 1, "chunks": 1185, "cls": "explain", "e2e_ms": 10438.8, "err": "", "id": "B5", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 612.9052639007568}
+{"arm": "solo", "c": 1, "chunks": 1152, "cls": "explain", "e2e_ms": 25489.7, "err": "", "id": "B6", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 526.7589092254639}
+{"arm": "solo", "c": 1, "chunks": 1066, "cls": "explain", "e2e_ms": 11064.9, "err": "", "id": "B7", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 567.3837661743164}
+{"arm": "solo", "c": 1, "chunks": 708, "cls": "explain", "e2e_ms": 8502.0, "err": "", "id": "B8", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1663.1388664245605}
+{"arm": "solo", "c": 1, "chunks": 1013, "cls": "explain", "e2e_ms": 8894.7, "err": "", "id": "B9", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 522.2196578979492}
+{"arm": "solo", "c": 1, "chunks": 2627, "cls": "long_gen", "e2e_ms": 22218.7, "err": "", "id": "C0", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1515.4993534088135}
+{"arm": "solo", "c": 1, "chunks": 2985, "cls": "long_gen", "e2e_ms": 26409.9, "err": "", "id": "C1", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 818.1095123291016}
+{"arm": "solo", "c": 1, "chunks": 1832, "cls": "long_gen", "e2e_ms": 122779.4, "err": "", "id": "C2", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 791.4552688598633}
+{"arm": "solo", "c": 1, "chunks": 2460, "cls": "long_gen", "e2e_ms": 21058.3, "err": "", "id": "C3", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 791.3703918457031}
+{"arm": "solo", "c": 1, "chunks": 2816, "cls": "long_gen", "e2e_ms": 24552.9, "err": "", "id": "C4", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 393.4333324432373}
+{"arm": "solo", "c": 1, "chunks": 2237, "cls": "long_gen", "e2e_ms": 20270.1, "err": "", "id": "C5", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 1236.6843223571777}
+{"arm": "solo", "c": 1, "chunks": 2214, "cls": "long_gen", "e2e_ms": 21011.5, "err": "", "id": "C6", "round": 3, "status": 200, "tag": "gw-<provider>20mini", "ttft_ms": 726.0348796844482}

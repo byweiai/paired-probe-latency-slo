@@ -1,0 +1,26 @@
+{
+ "agree": 31,
+ "both_not": 31,
+ "both_refuted": 0,
+ "cells_half_a": 112,
+ "cells_half_b": 96,
+ "excess_corr": 0.6217,
+ "judgeable_both": 32,
+ "meta": {
+  "delta": 0.05,
+  "draws": 800,
+  "source": "out/e16/*.jsonl",
+  "split": "round parity",
+  "taus": [
+   500,
+   1000,
+   2000,
+   3000,
+   5000,
+   10000,
+   20000,
+   40000
+  ]
+ },
+ "split": 1
+}

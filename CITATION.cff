@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use these measurements or scripts, please cite the manuscript."
+title: "Data and code for Before You Scale: Deciding First-Token Latency-SLO Attainability for LLM Serving with a Paired Probe"
+abstract: >-
+  Per-request paired-probe records from twelve commercial LLM serving stacks,
+  the aggregates derived from them, and the analysis scripts that rebuild every
+  table and number in the manuscript. Stack labels follow the manuscript; no
+  provider, model or institutional identity is included.
+authors:
+  - family-names: "Lv"
+    given-names: "Yue"
+    orcid: "<url>
+    affiliation: "China Mobile Communications Group Yunnan Co., Ltd., Kunming, China"
+version: "1.0.0"
+date-released: "2026-11-11"
+license: MIT
+keywords:
+  - large language model serving
+  - service level objectives
+  - attainability
+  - latency measurement
+  - admission control
+type: software

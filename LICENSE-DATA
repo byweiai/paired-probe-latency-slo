@@ -1,0 +1,10 @@
+CC BY 4.0
+
+The files under out/ are measurements and derived aggregates from the
+author's own probes. They are licensed under the Creative Commons
+Attribution 4.0 International License. To view a copy of this licence,
+visit <url>
+
+The public traces the analysis also reads (a search-query trace and a
+chat-session trace) are not redistributed here; they remain under their
+own licences and are cited in the paper.

@@ -1,0 +1,32 @@
+{
+ "agree": 4,
+ "agree_rate": 1.0,
+ "both_not": 4,
+ "both_refuted": 0,
+ "cells_new": 32,
+ "cells_old": 112,
+ "excess_corr": 0.8935,
+ "judgeable_both": 4,
+ "median_abs_excess_diff": 0.1169,
+ "meta": {
+  "delta": 0.05,
+  "draws": 800,
+  "source": "out/e21/*.jsonl",
+  "taus": [
+   500,
+   1000,
+   2000,
+   3000,
+   5000,
+   10000,
+   20000,
+   40000
+  ]
+ },
+ "records": 311,
+ "split": 0,
+ "stacks": [
+  "ds-flash",
+  "ds-v4pro"
+ ]
+}
