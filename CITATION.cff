@@ -11,6 +11,8 @@ authors:
     given-names: "Yue"
     orcid: "<url>
     affiliation: "China Mobile Communications Group Yunnan Co., Ltd., Kunming, China"
+doi: "10.5281/zenodo.24123933"
+repository-code: "<url>
 version: "1.0.0"
 date-released: "2026-11-11"
 license: MIT

@@ -4,6 +4,8 @@ This package backs the manuscript **Before You Scale: Deciding First-Token
 Latency-SLO Attainability for LLM Serving with a Paired Probe** (Yue Lv,
 China Mobile Communications Group Yunnan Co., Ltd.).
 
+**DOI:** [10.5281/zenodo.24123933](<url> · **Repository:** <url>
+
 It contains the per-request probe records the paper's numbers are computed from,
 the aggregated archives those computations produce, and the scripts that turn
 one into the other. Every printed table, band, macro and ladder rung in the
